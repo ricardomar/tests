@@ -1,0 +1,30 @@
+a:
+  color: blue-7
+  hover: blue-9
+body:
+  bg: gray-0
+  color: gray-8
+btn-primary:
+  bg: blue-5
+  color: gray-0
+  hover: blue-7
+  disabled: blue-3
+btn-secondary:
+  bg: gray-4
+  color: gray-0
+  hover: gray-6
+digit:
+  bg: gray-3
+header:
+  bg: gray-4
+index:
+  bg: gray-2
+navbar-brand:
+  color: gray-8
+  hover: gray-9
+nav-link:
+  color: gray-7
+  hover: gray-9
+text-muted:
+  color: gray-6
+  hover: gray-9
