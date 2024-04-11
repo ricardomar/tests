@@ -1,3 +1,6 @@
+# instrucoes obtidas em https://github.com/piazzai/jekyll-nagymaros/
+#For convenience, the customization of the theme's color scheme is also possible via YAML: 
+#In this case, create a file called skin.yml in your _data folder and assign new colors from the Open Color library https://yeun.github.io/open-color using the (color)-(number) convention. 
 a:
   color: blue-7
   hover: blue-9
