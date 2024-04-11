@@ -3,7 +3,9 @@ layout: index
 description: A simple Jekyll theme for a conference or workshop website
 ---
 
-Bem-vindo à Escola de Verão do CIBIT-ICNAS 2023! Se tens interesse em Neurociências e gostavas de saber mais sobre o funcionamento do cérebro, não percas esta oportunidade!
+Bem-vindo à Escola de Verão do CIBIT-ICNAS 2023! 
+
+Se tens interesse em Neurociências e gostavas de saber mais sobre o funcionamento do cérebro, não percas esta oportunidade!
 
 Nesta viagem ao Cérebro em 4 dias, vais:
 
