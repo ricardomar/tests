@@ -9,7 +9,7 @@ legend:
       color: teal-6
 
 days:
-  - name: Day 1
+  - name: 17 Julho
     events:
         - time: 10.00  10.30
           title: Receção Confirmação do Registo
@@ -62,26 +62,35 @@ days:
           title: Atividade Social
           category: Prática          
 
-  - name: Day 2
+  - name: 18 Julho
     events:
-      - time: 8:00 to 9:00
-        title: Coffee
-      - time: 9:00 to 11:00
-        title: Tempor incididunt
-        subtitle: Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
-        category: A category
-      - time: 11:00 to 13:00
-        title: Ut labore et dolore
-        subtitle: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
-        category: Another category
-      - time: 13:00 to 14:00
-        title: Lunch break
-      - time: 14:00 to 16:00
-        title: Magna aliqua
-        subtitle: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-        category: Yet another category
-      - time: 16:00 to 18:00
-        title: Poster presentations
-        category: Yet another category
-      - time: 18:00 to 19:00
-        title: Closing
+        - time: 09.30   10.00
+          title: Eye Tracking
+          subtitle: João Castelhano
+
+        - time: 10.00  10.30
+          title: Exames Psicofísicos
+          subtitle: Hugo Quental
+
+        - time: 10.30  11.00
+          title: Avaliação Neuropsicológica em Contextos de Investigação
+          subtitle: Daniela Sousa
+
+        - time: 11.00  11.30
+          title: Pausa
+
+        - time: 11.30  12.00
+          title: Imagem Molecular da Química à Clínica
+          subtitle: Antero Abrunhosa
+
+        - time: 12.00  12.30
+          title: Experimentação Animal
+          subtitle: Joana Gonçalves, João Martins
+
+        - time: 12.30  14.00
+          title: Almoço
+
+        - time: 14.00  16.30
+          title: Oficinas de Demonstração
+          subtitle: Experimentação Animal (Joana Gonçalves, João Martins) Eye tracking (Mariana Pais, João Castelhano) Exames Psicofísicos (Hugo Quental, Rita Correia)  Realidade Virtual (Daniel Agostinho).
+
