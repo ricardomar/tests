@@ -3,13 +3,13 @@ layout: index
 description: A simple Jekyll theme for a conference or workshop website
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sit amet luctus venenatis lectus magna fringilla urna. Ut etiam sit amet nisl purus in mollis.
+Bem-vindo à Escola de Verão do CIBIT-ICNAS 2023! Se tens interesse em Neurociências e gostavas de saber mais sobre o funcionamento do cérebro, não percas esta oportunidade!
 
-Purus semper eget duis at tellus. Ornare arcu odio ut sem nulla pharetra diam sit. Neque vitae tempus quam pellentesque. Viverra suspendisse potenti nullam ac tortor. Quis commodo odio aenean sed adipiscing. A erat nam at lectus urna duis convallis convallis tellus. Risus sed vulputate odio ut enim. Magna fringilla urna porttitor rhoncus dolor purus non. Nibh venenatis cras sed felis eget velit aliquet sagittis. Etiam tempor orci eu lobortis elementum nibh tellus.
+Nesta viagem ao Cérebro em 4 dias, vais:
 
-Vestibulum lectus mauris ultrices eros in cursus.
+* Perceber como se faz investigação na área das Neurociências;
+* Conhecer as diferentes técnicas usadas para estudar o funcionamento do cérebro;
+* Descobrir as aplicações práticas dos estudos que fazemos no CIBIT;
+* Contactar com investigadores, de forma informal e conhecer as nossas instalações;
 
-- Id nibh tortor id aliquet lectus proin nibh nisl.
-- Non diam phasellus vestibulum lorem sed risus ultricies.
-
-Tristique senectus et netus et malesuada fames ac turpis egestas. Adipiscing elit duis tristique sollicitudin nibh sit amet.
+A Escola de Verão vai decorrer de 17 a 20 de Julho, no Polo III - Ciências da Saúde da Universidade de Coimbra, em regime apenas presencial. A inscrição é gratuita mas obrigatória, até dia 12 de Julho!
