@@ -1,6 +1,8 @@
-source "https://rubygems.org"
 
-gem 'jekyll-nagymaros', '~> 2.0'
-gem 'jekyll', '~> 4.3'
-gem 'jekyll-seo-tag', '~> 2.8'
-gem 'jekyll-sitemap', '~> 1.4'
+source 'https://rubygems.org'
+
+gem "jekyll", "~> 4.2"
+
+group :jekyll_plugins do
+  gem "jekyll-timeago", "~> 0.13.1"
+end
