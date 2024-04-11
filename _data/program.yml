@@ -12,10 +12,10 @@ days:
   - name: 17 Julho
     events:
       - time: 10:00  10:30
-        title: Receção  Confirmação do Registo
+        title: Receção Confirmação do Registo
       - time: 10:30  10:45
         title: CIBIT Desafios da Investigação Translacional
-        subtitle: Miguel Castelo'-Branco
+        subtitle: Miguel Castelo Branco
         category: Apresentação                
   - name: Day 2
     events:
