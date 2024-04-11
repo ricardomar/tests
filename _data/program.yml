@@ -19,30 +19,38 @@ days:
         category: Apresentação        
       - time: 10:45 - 11:30
         title: Investigação em Neurociências: Conceitos e Práticas
-        subtitle: Miguel Castelo-Branco        
+        subtitle: Miguel Castelo-Branco    
+        category: Apresentação         
       - time: 11:30 - 11:45
         title: Pausa
       - time: 11:45 - 12:30
         title: Da Ideia de Investigação à Publicação Científica
         subtitle: Carolina Travassos  
+        category: Apresentação         
       - time: 12:30 - 14:00
         title: Almoço
       - time: 14:00 - 14:45
         title: Publicações Científicas: Revisões Sistemáticas e Meta-Análises
         subtitle: Otília d’Almeida  
+        category: Apresentação         
       - time: 14:45 - 15:15
         title: Ensaios Clínicos: Desafios e Aplicações
         subtitle: Ana Pina Rodrigues 
+        category: Apresentação         
       - time: 15:15 - 15:30
         title: Pausa
       - time: 15:30 - 16:00
         title: Ciência Aberta: Conceitos e Práticas
+        subtitle: Inês Almeida
+        category: Apresentação         
       - time: 16:00 - 16:30
         title: Comunicação de Ciência: Uma perda de tempo?
         subtitle: Inês Bernardino
+        category: Apresentação         
       - time: 16:00 - 16:30
         title: Actividade Social 
-        subtitle: Peddy-Paper      
+        subtitle: Peddy-Paper    
+        category: Prática         
   - name: Day 2
     events:
       - time: 8:00 to 9:00
