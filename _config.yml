@@ -1,6 +1,6 @@
 title: Nagymaros
 description: Jekyll theme for a conference website
-baseurl: "/demos"
+baseurl: "/tests"
 url: #
 
 theme: jekyll-nagymaros
