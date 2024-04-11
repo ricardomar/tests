@@ -1,1 +1,15 @@
-title: "Jekyll Actions Demo"
+title: Nagymaros
+description: Jekyll theme for a conference website
+baseurl: "/tests"
+url: https://ricardomar.github.io/#
+
+theme: jekyll-nagymaros
+
+copyright: Place Holder
+indexing: false
+
+permalink: pretty
+
+exclude:
+  - LICENSE
+  - README.md
