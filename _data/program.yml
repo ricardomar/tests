@@ -11,27 +11,49 @@ legend:
 days:
   - name: Day 1
     events:
-      - time: 8:00 to 9:00
-        title: Coffee
-      - time: 9:00 to 11:00
-        title: Tempor incididunt
-        subtitle: Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
-        category: A category
-      - time: 11:00 to 13:00
-        title: Ut labore et dolore
-        subtitle: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
-        category: Another category
-      - time: 13:00 to 14:00
-        title: Lunch break
-      - time: 14:00 to 16:00
-        title: Magna aliqua
-        subtitle: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-        category: Yet another category
-      - time: 16:00 to 18:00
-        title: Poster presentations
-        category: Yet another category
-      - time: 18:00 to 19:00
-        title: Closing       
+        -time: 10.00  10.30
+          title: Receção Confirmação do Registo
+
+        - time: 10.30 10.45
+          title: CIBIT  Desafios da Investigação Translacional
+          subtitle: Miguel Castelo Branco
+
+        - time: 10.45 11.30
+          title: Investigação em Neurociências: Conceitos e Práticas
+          subtitle: Miguel Castelo Branco
+
+        - time: 11.30 11.45
+          title: Pausa
+
+        - time: 11.45 12.30
+          title: Da Ideia de Investigação à Publicação Científica
+          subtitle: Carolina Travassos
+
+        - time: 12.30 14.00
+          title: Almoço
+
+        - time: 14.00 14.45
+          title: Publicações Científicas: Revisões Sistemáticas e Meta Análises
+          subtitle: Otília d’Almeida
+
+        - time: 14.45 15.15
+          title: Ensaios Clínicos: Desafios e Aplicações
+          subtitle: Ana Pina Rodrigues
+
+        - time: 15.15 15.30
+          title: Pausa
+
+        - time: 15.30 16.00
+          title: Ciência Aberta: Conceitos e Práticas
+          subtitle: Inês Almeida
+
+        - time: 16.00 16.30
+          title: Comunicação de Ciência: Uma perda de tempo?
+          subtitle: Inês Bernardino
+
+        - time: 16.30
+          title: Atividade Social
+
   - name: Day 2
     events:
       - time: 8:00 to 9:00
