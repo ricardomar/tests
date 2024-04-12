@@ -1,6 +1,6 @@
 ---
 layout: contributors
-title: Contributors
+title: Organização
 description: List of organizers and participants
 navorder: 4
 ---
