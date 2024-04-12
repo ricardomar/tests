@@ -2,9 +2,9 @@ legend:
   title:
   categories:
     - name: palestra
-      color: blue-6
-    - name: visita
       color: red-6
+    - name: visita
+      color: yellow-6
     - name: actividade
       color: teal-6
 days:
