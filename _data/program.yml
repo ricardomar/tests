@@ -18,7 +18,7 @@ days:
         speaker: 
             - name: "Miguel Castelo-Branco"
               suffix:
-              url:
+              url: "https://www.cienciavitae.pt/"
         category: palestra
 
       - time: "10:45 to 11:30"
@@ -26,7 +26,7 @@ days:
         speaker: 
             - name: "Miguel Castelo-Branco"
               suffix:
-              url:              
+              url: "https://www.cienciavitae.pt/"              
         category: palestra
 
       - time: "11:30 to 11:45"
@@ -37,7 +37,7 @@ days:
         speaker:
             - name: "Carolina Travassos"
               suffix:
-              url:        
+              url: "https://www.cienciavitae.pt/"        
         category: palestra
 
       - time: "12:30 to 14:00"
@@ -48,7 +48,7 @@ days:
         speaker:
             - name: "Otília d’Almeida"
               suffix:
-              url:        
+              url: "https://www.cienciavitae.pt/"        
         category: palestra
 
       - time: "14:45 to 15:15"
@@ -56,7 +56,7 @@ days:
         speaker: 
             - name: "Ana Pina Rodrigues"
               suffix:
-              url:        
+              url: "https://www.cienciavitae.pt/"        
         category: palestra
 
       - time: "15:15 to 15:30"
@@ -67,7 +67,7 @@ days:
         speaker: 
             - name: "Inês Almeida"
               suffix:
-              url:        
+              url: "https://www.cienciavitae.pt/"        
         category: palestra
 
       - time: "16:00 to 16:30"
@@ -75,7 +75,7 @@ days:
         speaker: 
             - name: "Inês Bernardino"
               suffix:
-              url:        
+              url: "https://www.cienciavitae.pt/"        
         category: palestra
 
       - time: "16:30"
@@ -89,7 +89,7 @@ days:
         speaker: 
             - name: "João Castelhano"
               suffix:
-              url:        
+              url: "https://www.cienciavitae.pt/"        
         category: palestra
 
       - time: "10:00 to 10:30"
@@ -97,7 +97,7 @@ days:
         speaker: 
             - name: "Hugo Quental"
               suffix:
-              url:        
+              url: "https://www.cienciavitae.pt/"        
         category: palestra
 
       - time: "10:30 to 11:00"
@@ -105,7 +105,7 @@ days:
         speaker:
             - name: "Daniela Sousa"
               suffix:
-              url:        
+              url: "https://www.cienciavitae.pt/"        
         category: palestra
 
       - time: "11:00 to 11:30"
@@ -116,7 +116,7 @@ days:
         speaker:
             - name: "Antero Abrunhosa"
               suffix:
-              url:        
+              url: "https://www.cienciavitae.pt/"        
         category: palestra
 
       - time: "12:00 to 12:30"
@@ -124,10 +124,10 @@ days:
         speaker: 
             - name: "Joana Gonçalves"
               suffix:
-              url:
+              url: "https://www.cienciavitae.pt/"
             - name: "João Martins"
               suffix:
-              url:              
+              url: "https://www.cienciavitae.pt/"              
         category: palestra
 
       - time: "12:30 to 14:00"
@@ -138,25 +138,25 @@ days:
         speaker: 
             - name: "Joana Gonçalves"
               suffix: "(experimentação animal)"
-              url: 
+              url: "https://www.cienciavitae.pt/" 
             - name: "João Martins"
               suffix: "(experimentação animal)"
-              url: 
+              url: "https://www.cienciavitae.pt/" 
             - name: "Mariana Pais"
               suffix: "(experimentação animal)"
-              url: 
+              url: "https://www.cienciavitae.pt/" 
             - name: "João Castelhano"
               suffix: "(eye-tracking)"
-              url: 
+              url: "https://www.cienciavitae.pt/" 
             - name: "Hugo Quental"
               suffix: "(exames psicofísicos)"
-              url: 
+              url: "https://www.cienciavitae.pt/" 
             - name: "Rita Correia"
               suffix: "(realidade virtual)"
-              url: 
+              url: "https://www.cienciavitae.pt/" 
             - name: "Daniel Agostinho"
               suffix: "(realidade virtual)"
-              url:               
+              url: "https://www.cienciavitae.pt/"               
         category: actividade
 
   - name: "Quarta - 19"
@@ -166,7 +166,7 @@ days:
         speaker:
             - name: "Alexandre Sayal"
               suffix:
-              url:        
+              url: "https://www.cienciavitae.pt/"        
         category: palestra
 
       - time: "10:00 to 10:30"
@@ -174,7 +174,7 @@ days:
         speaker: 
             - name: "Otília d’Almeida"
               suffix:
-              url:        
+              url: "https://www.cienciavitae.pt/"        
         category: palestra
 
       - time: "10:30 to 11:00"
@@ -182,7 +182,7 @@ days:
         speaker:
             - name: "João Pereira"
               suffix:
-              url:        
+              url: "https://www.cienciavitae.pt/"        
         category: palestra
 
       - time: "11:00 to 11:30"
@@ -193,7 +193,7 @@ days:
         speaker:
             - name: "Marta Teixeira"
               suffix:
-              url:        
+              url: "https://www.cienciavitae.pt/"        
         category: palestra
 
       - time: "12:00 to 12:30"
@@ -201,7 +201,7 @@ days:
         speaker:
             - name: "Catarina Duarte"
               suffix:
-              url:        
+              url: "https://www.cienciavitae.pt/"        
         category: palestra
 
       - time: "12:30 to 14:00"
@@ -212,19 +212,19 @@ days:
         speaker: 
             - name: "Catarina Duarte"
               suffix: "(estimulação cerebral)"
-              url:
+              url: "https://www.cienciavitae.pt/"
             - name: "Marta Teixeira"
               suffix: "(EEG)"
-              url:
+              url: "https://www.cienciavitae.pt/"
             - name: "Ricardo Martins"
               suffix: "(ressonância magnética)"
-              url:
+              url: "https://www.cienciavitae.pt/"
             - name: "Alexandre Sayal"
               suffix: "(ressonância magnética)"
-              url:
+              url: "https://www.cienciavitae.pt/"
             - name: "Ricardo Martins"
               suffix: "(fNIRS)"
-              url:              
+              url: "https://www.cienciavitae.pt/"              
         category: visita
 
   - name: "Quinta - 20"
@@ -234,7 +234,7 @@ days:
         speaker:
             - name: "Vanessa Coelho-Santos"
               suffix:
-              url:        
+              url: "https://www.cienciavitae.pt/"        
         category: palestra
 
       - time: "09:50 to 10:10"
@@ -242,10 +242,10 @@ days:
         speaker: 
             - name: "João Martins"
               suffix:
-              url:
+              url: "https://www.cienciavitae.pt/"
             - name: "Joana Gonçalves"
               suffix:
-              url:              
+              url: "https://www.cienciavitae.pt/"              
         category: palestra
 
       - time: "10:10 to 10:30"
@@ -253,7 +253,7 @@ days:
         speaker:
             - name: "Andreia Pereira"
               suffix:
-              url:        
+              url: "https://www.cienciavitae.pt/"        
         category: palestra
 
       - time: "10:30 to 10:50"
@@ -261,7 +261,7 @@ days:
         speaker:
             - name: "Ana Nunes"
               suffix:
-              url:        
+              url: "https://www.cienciavitae.pt/"        
         category: palestra
 
       - time: "10:50 to 11:10"
@@ -272,13 +272,13 @@ days:
         speaker:
             - name: "Marta Teixeira"
               suffix:
-              url:
+              url: "https://www.cienciavitae.pt/"
             - name: "Carla Soares"
               suffix:
-              url:
+              url: "https://www.cienciavitae.pt/"
             - name: "Gisela Lima"
               suffix:
-              url:              
+              url: "https://www.cienciavitae.pt/"              
         category: palestra
 
       - time: "11:30 to 11:50"
@@ -286,7 +286,7 @@ days:
         speaker:
             - name: "Joana Oliveira"
               suffix:
-              url:        
+              url: "https://www.cienciavitae.pt/"        
         category: palestra
 
       - time: "11:50 to 12:10"
@@ -294,10 +294,10 @@ days:
         speaker:
             - name: "Catarina Duarte"
               suffix:
-              url:
+              url: "https://www.cienciavitae.pt/"
             - name: "Joana Oliveira"
               suffix:
-              url:              
+              url: "https://www.cienciavitae.pt/"              
         category: palestra
 
       - time: "12:10 to 12:30"
@@ -305,7 +305,7 @@ days:
         speaker:
             - name: "Bruno Direito"
               suffix:
-              url:        
+              url: "https://www.cienciavitae.pt/"        
         category: palestra
 
       - time: "12:30 to 14:00"
@@ -316,7 +316,7 @@ days:
         speaker:
             - name: "João Castelhano"
               suffix:
-              url:        
+              url: "https://www.cienciavitae.pt/"        
         category: palestra
 
       - time: "14:20 to 14:40"
@@ -324,7 +324,7 @@ days:
         speaker: 
             - name: "Teresa Sousa"
               suffix:
-              url:        
+              url: "https://www.cienciavitae.pt/"        
         category: palestra
 
       - time: "14:40 to 15:00"
@@ -332,7 +332,7 @@ days:
         speaker:
             - name: "Nuno Madeira"
               suffix:
-              url:        
+              url: "https://www.cienciavitae.pt/"        
         category: palestra
 
       - time: "15:00 to 15:20"
@@ -340,7 +340,7 @@ days:
         speaker:
             - name: "Tatiana Marques"
               suffix:
-              url:        
+              url: "https://www.cienciavitae.pt/"        
         category: palestra
 
       - time: "15:20 to 15:40"
@@ -348,7 +348,7 @@ days:
         speaker:
             - name: "Maria Ribeiro"
               suffix:
-              url:        
+              url: "https://www.cienciavitae.pt/"        
         category: palestra
 
       - time: "15:40 to 16:00"
@@ -359,19 +359,19 @@ days:
         speaker:
             - name: "Ana Cortês"
               suffix:
-              url:
+              url: "https://www.cienciavitae.pt/"
             - name: "Miguel Bajouco"
               suffix:
-              url:
+              url: "https://www.cienciavitae.pt/"
             - name: "Susana Mouga"
               suffix:
-              url:
+              url: "https://www.cienciavitae.pt/"
             - name: "Vanessa Coelho-Santos"
               suffix:
-              url:
+              url: "https://www.cienciavitae.pt/"
             - name: "Miguel Castelo-Branco"
               suffix:
-              url:              
+              url: "https://www.cienciavitae.pt/"              
         category: actividade
 
       - time: "16:45 to 17:00"
