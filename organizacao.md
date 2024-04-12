@@ -16,9 +16,6 @@ A Escola de Verão é uma excelente oportunidade para ficares a conhecer melhor 
 escolaveraocibit@gmail.com ou Twitter: @CIBIT_UC
 
 
-![mapa local](..\assets\images\cibit-logo.png)
-
-![mapa local](..\assets\images\icnas-logo.png)
 
 
 

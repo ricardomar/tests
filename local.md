@@ -9,7 +9,7 @@ navorder: 3
 Pólo III – Ciências da Saúde, Universidade de Coimbra Rua Santa Comba, 3000-548 Coimbra
 Junto ao CHUC (Centro Hospitalar e Universitário da Universidade de Coimbra)
 
-![mapa local](..\assets\images\HCampusMap.png)
+
 
 
 
