@@ -12,28 +12,23 @@ days:
   - name: 17 Julho
     events:
         - time: "10.00 - 10.30"
-          title: "Receção Confirmação do Registo"
-          
+          title: "Receção Confirmação do Registo"   
         - time: "10.30 - 10.45"
           title: "CIBIT  Desafios da Investigação Translacional"
           subtitle: "Miguel Castelo-Branco"
           category: Apresentação
-          
         - time: "10.45 - 11.30"
           title: "Investigação em Neurociências Conceitos e Práticas"
           subtitle: "Miguel Castelo-Branco"
           category: Apresentação          
-
   - name: 18 Julho
     events:
         - time: "10.00 - 10.30"
-          title: "Receção Confirmação do Registo"
-          
+          title: "Receção Confirmação do Registo"          
         - time: "10.30 - 10.45"
           title: "CIBIT  Desafios da Investigação Translacional"
           subtitle: "Miguel 123 123 Castelo-Branco"
-          category: Apresentação
-          
+          category: Apresentação          
         - time: "10.45 - 11.30"
           title: "Investigação em Neurociências Conceitos e Práticas"
           subtitle: "Miguel Castelo-Branco"
