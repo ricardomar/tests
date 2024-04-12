@@ -85,6 +85,38 @@ days:
         title: "Oficinas de Demonstração"
         subtitle: "tutores"
 
+  - name: "Day 3"
+    events:
+      - time: "09:30 to 10:00"
+        title: "Ressonância Magnética: Estrutural e Funcional; Neurofeedback"
+        subtitle: "Alexandre Sayal"
+
+      - time: "10:00 to 10:30"
+        title: "Ressonância Magnética: Espectroscopia"
+        subtitle: "Otília d’Almeida"
+
+      - time: "10:30 to 11:00"
+        title: "fNIRS"
+        subtitle: "João Pereira"
+
+      - time: "11:00 to 11:30"
+        title: "Pausa"
+
+      - time: "11:30 to 12:00"
+        title: "Eletroencefalografia (EEG)"
+        subtitle: "Marta Teixeira"
+
+      - time: "12:00 to 12:30"
+        title: "Estimulação Cerebral"
+        subtitle: "Catarina Duarte"
+
+      - time: "12:30 to 14:00"
+        title: "Almoço"
+
+      - time: "14:00 to 16:30"
+        title: "Oficinas de Demonstração"
+        workshops: "tutores"
+
 
   - name: Day 99
     events:
