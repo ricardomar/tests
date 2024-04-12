@@ -6,7 +6,7 @@ description02: CIBIT-ICNAS, Universidade de Coimbra. 17 a 20 de Julho de 2023.
 
 Se tens interesse em Neurociências e gostavas de saber mais sobre o funcionamento do cérebro, não percas esta oportunidade!
 
-Nesta viagem ao cérebro em 4 dias, vais:
+Nesta viagem ao cérebro em 4 dias, [organizada pelos investigadores do CIBIT-ICNAS](contributors) , vais:
 
 * Perceber como se faz investigação na área das Neurociências;
 * Conhecer as diferentes técnicas usadas para estudar o funcionamento do cérebro;
