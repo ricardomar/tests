@@ -1,14 +1,14 @@
 legend:
   title: Legend
   categories:
-    - name: Palestra
+    - name: palestra
       color: blue-6
-    - name: Visita
+    - name: visita
       color: red-6
-    - name: Actividade
+    - name: actividade
       color: teal-6
 days:
-  - name: "Day 1"
+  - name: "17 Julho"
     events:
       - time: "10:00 to 10:30"
         title: "Receção – Confirmação do Registo"
@@ -16,10 +16,12 @@ days:
       - time: "10:30 to 10:45"
         title: "CIBIT – Desafios da Investigação Translacional"
         subtitle: "Miguel Castelo-Branco"
+        category: palestra
 
       - time: "10:45 to 11:30"
         title: "Investigação em Neurociências: Conceitos e Práticas"
         subtitle: "Miguel Castelo-Branco"
+        category: palestra
 
       - time: "11:30 to 11:45"
         title: "Pausa"
@@ -27,6 +29,7 @@ days:
       - time: "11:45 to 12:30"
         title: "Da Ideia de Investigação à Publicação Científica"
         subtitle: "Carolina Travassos"
+        category: palestra
 
       - time: "12:30 to 14:00"
         title: "Almoço"
@@ -34,10 +37,12 @@ days:
       - time: "14:00 to 14:45"
         title: "Publicações Científicas: Revisões Sistemáticas e Meta-Análises"
         subtitle: "Otília d’Almeida"
+        category: palestra
 
       - time: "14:45 to 15:15"
         title: "Ensaios Clínicos: Desafios e Aplicações"
         subtitle: "Ana Pina Rodrigues"
+        category: palestra
 
       - time: "15:15 to 15:30"
         title: "Pausa"
@@ -45,27 +50,33 @@ days:
       - time: "15:30 to 16:00"
         title: "Ciência Aberta: Conceitos e Práticas"
         subtitle: "Inês Almeida"
+        category: palestra
 
       - time: "16:00 to 16:30"
         title: "Comunicação de Ciência: Uma perda de tempo?"
         subtitle: "Inês Bernardino"
+        category: palestra
 
       - time: "16:30"
         title: "Atividade Social"
+        category: actividade
 
-  - name: "Day 2"
+  - name: "18 Julho"
     events:
       - time: "09:30 to 10:00"
         title: "Eye-Tracking"
         subtitle: "João Castelhano"
+        category: palestra
 
       - time: "10:00 to 10:30"
         title: "Exames Psicofísicos"
         subtitle: "Hugo Quental"
+        category: palestra
 
       - time: "10:30 to 11:00"
         title: "Avaliação Neuropsicológica em Contextos de Investigação"
         subtitle: "Daniela Sousa"
+        category: palestra
 
       - time: "11:00 to 11:30"
         title: "Pausa"
@@ -73,10 +84,12 @@ days:
       - time: "11:30 to 12:00"
         title: "Imagem Molecular: da Química à Clínica"
         subtitle: "Antero Abrunhosa"
+        category: palestra
 
       - time: "12:00 to 12:30"
         title: "Experimentação Animal"
         subtitle: "Joana Gonçalves, João Martins"
+        category: palestra
 
       - time: "12:30 to 14:00"
         title: "Almoço"
@@ -84,20 +97,24 @@ days:
       - time: "14:00 to 16:30"
         title: "Oficinas de Demonstração"
         subtitle: "tutores"
+        category: actividade
 
-  - name: "Day 3"
+  - name: "19 Julho"
     events:
       - time: "09:30 to 10:00"
         title: "Ressonância Magnética: Estrutural e Funcional; Neurofeedback"
         subtitle: "Alexandre Sayal"
+        category: palestra
 
       - time: "10:00 to 10:30"
         title: "Ressonância Magnética: Espectroscopia"
         subtitle: "Otília d’Almeida"
+        category: palestra
 
       - time: "10:30 to 11:00"
         title: "fNIRS"
         subtitle: "João Pereira"
+        category: palestra
 
       - time: "11:00 to 11:30"
         title: "Pausa"
@@ -105,10 +122,12 @@ days:
       - time: "11:30 to 12:00"
         title: "Eletroencefalografia (EEG)"
         subtitle: "Marta Teixeira"
+        category: palestra
 
       - time: "12:00 to 12:30"
         title: "Estimulação Cerebral"
         subtitle: "Catarina Duarte"
+        category: palestra
 
       - time: "12:30 to 14:00"
         title: "Almoço"
@@ -116,24 +135,29 @@ days:
       - time: "14:00 to 16:30"
         title: "Oficinas de Demonstração"
         workshops: "tutores"
+        category: visita
 
-  - name: "Day 4"
+  - name: "20 Julho"
     events:
       - time: "09:30 to 09:50"
         title: "A Unidade Neurogliovascular: da Construção à Função"
         subtitle: "Vanessa Coelho-Santos"
+        category: palestra
 
       - time: "09:50 to 10:10"
         title: "Investigação Pré-clínica em Doenças do Neurodesenvolvimento"
         subtitle: "João Martins, Joana Gonçalves"
+        category: palestra
 
       - time: "10:10 to 10:30"
         title: "Medicina Personalizada no Autismo - Projeto Aims-2-Trials"
         subtitle: "Andreia Pereira"
+        category: palestra
 
       - time: "10:30 to 10:50"
         title: "Análise de Textura em OCT"
         subtitle: "Ana Nunes"
+        category: palestra
 
       - time: "10:50 to 11:10"
         title: "Pausa"
@@ -141,18 +165,22 @@ days:
       - time: "11:10 to 11:30"
         title: "Investigação em Psicadélicos"
         subtitle: "Marta Teixeira, Carla Soares, Gisela Lima"
+        category: palestra
 
       - time: "11:30 to 11:50"
         title: "Neuropsicobiologia da Violência em Relações com Parceiro Íntimo - da Ideia à Implementação"
         subtitle: "Joana Oliveira"
+        category: palestra
 
       - time: "11:50 to 12:10"
         title: "Tomada de Decisão em Cenários Críticos de Combate a Incêndios"
         subtitle: "Catarina Duarte, Joana Oliveira"
+        category: palestra
 
       - time: "12:10 to 12:30"
         title: "Modelos Computacionais e Neuroimagem - Biomarcadores e Novas Oportunidades"
         subtitle: "Bruno Direito"
+        category: palestra
 
       - time: "12:30 to 14:00"
         title: "Almoço"
@@ -160,22 +188,27 @@ days:
       - time: "14:00 to 14:20"
         title: "Uma volta ao Cérebro do Arquimedes quando exclamou 'Eureka!'"
         subtitle: "João Castelhano"
+        category: palestra
 
       - time: "14:20 to 14:40"
         title: "Diferentes Abordagens de Neuromodulação na Perturbação Obsessivo-Compulsiva"
         subtitle: "Teresa Sousa"
+        category: palestra
 
       - time: "14:40 to 15:00"
         title: "Neuroimagiologia e Neuromodulação em Perturbações Psicóticas"
         subtitle: "Nuno Madeira"
+        category: palestra
 
       - time: "15:00 to 15:20"
         title: "Perda Auditiva no Envelhecimento"
         subtitle: "Tatiana Marques"
+        category: palestra
 
       - time: "15:20 to 15:40"
         title: "Neurociências do Envelhecimento"
         subtitle: "Maria Ribeiro"
+        category: palestra
 
       - time: "15:40 to 16:00"
         title: "Pausa"
@@ -183,32 +216,7 @@ days:
       - time: "16:00 to 16:45"
         title: "Mesa Redonda: Investigação em Neurociência - Percursos e Carreiras"
         subtitle: "Ana Cortês, Miguel Bajouco, Susana Mouga, Vanessa Coelho-Santos, Miguel Castelo-Branco"
+        category: actividade
 
       - time: "16:45 to 17:00"
         title: "Encerramento"
-
-
-
-  - name: Day 99
-    events:
-      - time: 8:00 to 9:00
-        title: Coffee
-      - time: 9:00 to 11:00
-        title: Tempor incididunt
-        subtitle: Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
-        category: A category
-      - time: 11:00 to 13:00
-        title: Ut labore et dolore
-        subtitle: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
-        category: Another category
-      - time: 13:00 to 14:00
-        title: Lunch break
-      - time: 14:00 to 16:00
-        title: Magna aliqua
-        subtitle: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-        category: Yet another category
-      - time: 16:00 to 18:00
-        title: Poster presentations
-        category: Yet another category
-      - time: 18:00 to 19:00
-        title: Closing
