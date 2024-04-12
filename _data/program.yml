@@ -1,11 +1,11 @@
 legend:
   title: Legend
   categories:
-    - name: A category
+    - name: Palestra
       color: blue-6
-    - name: Another category
+    - name: Visita
       color: red-6
-    - name: Yet another category
+    - name: Actividade
       color: teal-6
 days:
   - name: "Day 1"
@@ -116,6 +116,77 @@ days:
       - time: "14:00 to 16:30"
         title: "Oficinas de Demonstração"
         workshops: "tutores"
+
+  - name: "Day 4"
+    events:
+      - time: "09:30 to 09:50"
+        title: "A Unidade Neurogliovascular: da Construção à Função"
+        subtitle: "Vanessa Coelho-Santos"
+
+      - time: "09:50 to 10:10"
+        title: "Investigação Pré-clínica em Doenças do Neurodesenvolvimento"
+        subtitle: "João Martins, Joana Gonçalves"
+
+      - time: "10:10 to 10:30"
+        title: "Medicina Personalizada no Autismo - Projeto Aims-2-Trials"
+        subtitle: "Andreia Pereira"
+
+      - time: "10:30 to 10:50"
+        title: "Análise de Textura em OCT"
+        subtitle: "Ana Nunes"
+
+      - time: "10:50 to 11:10"
+        title: "Pausa"
+
+      - time: "11:10 to 11:30"
+        title: "Investigação em Psicadélicos"
+        subtitle: "Marta Teixeira, Carla Soares, Gisela Lima"
+
+      - time: "11:30 to 11:50"
+        title: "Neuropsicobiologia da Violência em Relações com Parceiro Íntimo - da Ideia à Implementação"
+        subtitle: "Joana Oliveira"
+
+      - time: "11:50 to 12:10"
+        title: "Tomada de Decisão em Cenários Críticos de Combate a Incêndios"
+        subtitle: "Catarina Duarte, Joana Oliveira"
+
+      - time: "12:10 to 12:30"
+        title: "Modelos Computacionais e Neuroimagem - Biomarcadores e Novas Oportunidades"
+        subtitle: "Bruno Direito"
+
+      - time: "12:30 to 14:00"
+        title: "Almoço"
+
+      - time: "14:00 to 14:20"
+        title: "Uma volta ao Cérebro do Arquimedes quando exclamou 'Eureka!'"
+        subtitle: "João Castelhano"
+
+      - time: "14:20 to 14:40"
+        title: "Diferentes Abordagens de Neuromodulação na Perturbação Obsessivo-Compulsiva"
+        subtitle: "Teresa Sousa"
+
+      - time: "14:40 to 15:00"
+        title: "Neuroimagiologia e Neuromodulação em Perturbações Psicóticas"
+        subtitle: "Nuno Madeira"
+
+      - time: "15:00 to 15:20"
+        title: "Perda Auditiva no Envelhecimento"
+        subtitle: "Tatiana Marques"
+
+      - time: "15:20 to 15:40"
+        title: "Neurociências do Envelhecimento"
+        subtitle: "Maria Ribeiro"
+
+      - time: "15:40 to 16:00"
+        title: "Pausa"
+
+      - time: "16:00 to 16:45"
+        title: "Mesa Redonda: Investigação em Neurociência - Percursos e Carreiras"
+        subtitle: "Ana Cortês, Miguel Bajouco, Susana Mouga, Vanessa Coelho-Santos, Miguel Castelo-Branco"
+
+      - time: "16:45 to 17:00"
+        title: "Encerramento"
+
 
 
   - name: Day 99
