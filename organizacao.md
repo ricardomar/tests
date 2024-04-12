@@ -12,7 +12,8 @@ O CIBIT reúne profissionais de diferentes áreas, desde a engenharia biomédica
 A Escola de Verão é uma excelente oportunidade para ficares a conhecer melhor o CIBIT e o trabalho que aqui se desenvolve!
 
 
-
+* **Contactos:** 
+escolaveraocibit@gmail.com ou Twitter: @CIBIT_UC
 
 
 
