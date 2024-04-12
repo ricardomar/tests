@@ -17,7 +17,7 @@ days:
         title: "CIBIT – Desafios da Investigação Translacional"
         speaker: 
             - name: "Miguel Castelo-Branco"
-              sufix:
+              suffix:
               url:
         category: palestra
 
@@ -25,7 +25,7 @@ days:
         title: "Investigação em Neurociências: Conceitos e Práticas"
         speaker: 
             - name: "Miguel Castelo-Branco"
-              sufix:
+              suffix:
               url:              
         category: palestra
 
@@ -36,7 +36,7 @@ days:
         title: "Da Ideia de Investigação à Publicação Científica"
         speaker:
             - name: "Carolina Travassos"
-              sufix:
+              suffix:
               url:        
         category: palestra
 
@@ -47,7 +47,7 @@ days:
         title: "Publicações Científicas: Revisões Sistemáticas e Meta-Análises"
         speaker:
             - name: "Otília d’Almeida"
-              sufix:
+              suffix:
               url:        
         category: palestra
 
@@ -55,7 +55,7 @@ days:
         title: "Ensaios Clínicos: Desafios e Aplicações"
         speaker: 
             - name: "Ana Pina Rodrigues"
-              sufix:
+              suffix:
               url:        
         category: palestra
 
@@ -66,7 +66,7 @@ days:
         title: "Ciência Aberta: Conceitos e Práticas"
         speaker: 
             - name: "Inês Almeida"
-              sufix:
+              suffix:
               url:        
         category: palestra
 
@@ -74,7 +74,7 @@ days:
         title: "Comunicação de Ciência: Uma perda de tempo?"
         speaker: 
             - name: "Inês Bernardino"
-              sufix:
+              suffix:
               url:        
         category: palestra
 
@@ -88,7 +88,7 @@ days:
         title: "Eye-Tracking"
         speaker: 
             - name: "João Castelhano"
-              sufix:
+              suffix:
               url:        
         category: palestra
 
@@ -96,7 +96,7 @@ days:
         title: "Exames Psicofísicos"
         speaker: 
             - name: "Hugo Quental"
-              sufix:
+              suffix:
               url:        
         category: palestra
 
@@ -104,7 +104,7 @@ days:
         title: "Avaliação Neuropsicológica em Contextos de Investigação"
         speaker:
             - name: "Daniela Sousa"
-              sufix:
+              suffix:
               url:        
         category: palestra
 
@@ -115,7 +115,7 @@ days:
         title: "Imagem Molecular: da Química à Clínica"
         speaker:
             - name: "Antero Abrunhosa"
-              sufix:
+              suffix:
               url:        
         category: palestra
 
@@ -123,10 +123,10 @@ days:
         title: "Experimentação Animal"
         speaker: 
             - name: "Joana Gonçalves"
-              sufix:
+              suffix:
               url:
             - name: "João Martins"
-              sufix:
+              suffix:
               url:              
         category: palestra
 
@@ -136,9 +136,27 @@ days:
       - time: "14:00 to 16:30"
         title: "Oficinas de Demonstração"
         speaker: 
-            - name: "tutores"
-              sufix:
-              url:        
+            - name: "Joana Gonçalves"
+              suffix: "(experimentação animal)"
+              url: 
+            - name: "João Martins"
+              suffix: "(experimentação animal)"
+              url: 
+            - name: "Mariana Pais"
+              suffix: "(experimentação animal)"
+              url: 
+            - name: "João Castelhano"
+              suffix: "(eye-tracking)"
+              url: 
+            - name: "Hugo Quental"
+              suffix: "(exames psicofísicos)"
+              url: 
+            - name: "Rita Correia"
+              suffix: "(realidade virtual)"
+              url: 
+            - name: "Daniel Agostinho"
+              suffix: "(realidade virtual)"
+              url:               
         category: actividade
 
   - name: "Quarta - 19"
@@ -147,7 +165,7 @@ days:
         title: "Ressonância Magnética: Estrutural e Funcional; Neurofeedback"
         speaker:
             - name: "Alexandre Sayal"
-              sufix:
+              suffix:
               url:        
         category: palestra
 
@@ -155,7 +173,7 @@ days:
         title: "Ressonância Magnética: Espectroscopia"
         speaker: 
             - name: "Otília d’Almeida"
-              sufix:
+              suffix:
               url:        
         category: palestra
 
@@ -163,7 +181,7 @@ days:
         title: "fNIRS"
         speaker:
             - name: "João Pereira"
-              sufix:
+              suffix:
               url:        
         category: palestra
 
@@ -174,7 +192,7 @@ days:
         title: "Eletroencefalografia (EEG)"
         speaker:
             - name: "Marta Teixeira"
-              sufix:
+              suffix:
               url:        
         category: palestra
 
@@ -182,7 +200,7 @@ days:
         title: "Estimulação Cerebral"
         speaker:
             - name: "Catarina Duarte"
-              sufix:
+              suffix:
               url:        
         category: palestra
 
@@ -192,9 +210,21 @@ days:
       - time: "14:00 to 16:30"
         title: "Oficinas de Demonstração"
         speaker: 
-            - name: "tutores"
-              sufix:
-              url:        
+            - name: "Catarina Duarte"
+              suffix: "(estimulação cerebral)"
+              url:
+            - name: "Marta Teixeira"
+              suffix: "(EEG)"
+              url:
+            - name: "Ricardo Martins"
+              suffix: "(ressonância magnética)"
+              url:
+            - name: "Alexandre Sayal"
+              suffix: "(ressonância magnética)"
+              url:
+            - name: "Ricardo Martins"
+              suffix: "(fNIRS)"
+              url:              
         category: visita
 
   - name: "Quinta - 20"
@@ -203,7 +233,7 @@ days:
         title: "A Unidade Neurogliovascular: da Construção à Função"
         speaker:
             - name: "Vanessa Coelho-Santos"
-              sufix:
+              suffix:
               url:        
         category: palestra
 
@@ -211,10 +241,10 @@ days:
         title: "Investigação Pré-clínica em Doenças do Neurodesenvolvimento"
         speaker: 
             - name: "João Martins"
-              sufix:
+              suffix:
               url:
             - name: "Joana Gonçalves"
-              sufix:
+              suffix:
               url:              
         category: palestra
 
@@ -222,7 +252,7 @@ days:
         title: "Medicina Personalizada no Autismo - Projeto Aims-2-Trials"
         speaker:
             - name: "Andreia Pereira"
-              sufix:
+              suffix:
               url:        
         category: palestra
 
@@ -230,7 +260,7 @@ days:
         title: "Análise de Textura em OCT"
         speaker:
             - name: "Ana Nunes"
-              sufix:
+              suffix:
               url:        
         category: palestra
 
@@ -241,13 +271,13 @@ days:
         title: "Investigação em Psicadélicos"
         speaker:
             - name: "Marta Teixeira"
-              sufix:
+              suffix:
               url:
             - name: "Carla Soares"
-              sufix:
+              suffix:
               url:
             - name: "Gisela Lima"
-              sufix:
+              suffix:
               url:              
         category: palestra
 
@@ -255,7 +285,7 @@ days:
         title: "Neuropsicobiologia da Violência em Relações com Parceiro Íntimo - da Ideia à Implementação"
         speaker:
             - name: "Joana Oliveira"
-              sufix:
+              suffix:
               url:        
         category: palestra
 
@@ -263,10 +293,10 @@ days:
         title: "Tomada de Decisão em Cenários Críticos de Combate a Incêndios"
         speaker:
             - name: "Catarina Duarte"
-              sufix:
+              suffix:
               url:
             - name: "Joana Oliveira"
-              sufix:
+              suffix:
               url:              
         category: palestra
 
@@ -274,7 +304,7 @@ days:
         title: "Modelos Computacionais e Neuroimagem - Biomarcadores e Novas Oportunidades"
         speaker:
             - name: "Bruno Direito"
-              sufix:
+              suffix:
               url:        
         category: palestra
 
@@ -285,7 +315,7 @@ days:
         title: "Uma volta ao Cérebro do Arquimedes quando exclamou 'Eureka!'"
         speaker:
             - name: "João Castelhano"
-              sufix:
+              suffix:
               url:        
         category: palestra
 
@@ -293,7 +323,7 @@ days:
         title: "Diferentes Abordagens de Neuromodulação na Perturbação Obsessivo-Compulsiva"
         speaker: 
             - name: "Teresa Sousa"
-              sufix:
+              suffix:
               url:        
         category: palestra
 
@@ -301,7 +331,7 @@ days:
         title: "Neuroimagiologia e Neuromodulação em Perturbações Psicóticas"
         speaker:
             - name: "Nuno Madeira"
-              sufix:
+              suffix:
               url:        
         category: palestra
 
@@ -309,7 +339,7 @@ days:
         title: "Perda Auditiva no Envelhecimento"
         speaker:
             - name: "Tatiana Marques"
-              sufix:
+              suffix:
               url:        
         category: palestra
 
@@ -317,7 +347,7 @@ days:
         title: "Neurociências do Envelhecimento"
         speaker:
             - name: "Maria Ribeiro"
-              sufix:
+              suffix:
               url:        
         category: palestra
 
@@ -328,19 +358,19 @@ days:
         title: "Mesa Redonda: Investigação em Neurociência - Percursos e Carreiras"
         speaker:
             - name: "Ana Cortês"
-              sufix:
+              suffix:
               url:
             - name: "Miguel Bajouco"
-              sufix:
+              suffix:
               url:
             - name: "Susana Mouga"
-              sufix:
+              suffix:
               url:
             - name: "Vanessa Coelho-Santos"
-              sufix:
+              suffix:
               url:
             - name: "Miguel Castelo-Branco"
-              sufix:
+              suffix:
               url:              
         category: actividade
 
