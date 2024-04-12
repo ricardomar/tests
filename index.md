@@ -1,6 +1,7 @@
 ---
 layout: index
-description: A simple Jekyll theme for a conference or workshop website
+description01: Uma volta ao cérebro em 4 dias!
+description02: A simple Jekyll theme for a conference or workshop website
 ---
 
 Bem-vindo à Escola de Verão do CIBIT-ICNAS 2023! 
