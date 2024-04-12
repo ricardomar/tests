@@ -1,10 +1,20 @@
 ---
-layout: contributors
+layout: page
 title: Local
-description: List of organizers and participants
+description: 
 navorder: 3
 ---
 
-Rutrum tellus pellentesque eu tincidunt tortor aliquam nulla facilisi. Scelerisque felis imperdiet proin fermentum leo vel orci. Turpis massa sed elementum tempus egestas. Sodales ut etiam sit amet nisl purus in mollis.
+Local: Pólo III – Ciências da Saúde, Universidade de Coimbra Rua Santa Comba, 3000-548 Coimbra
 
-Massa tincidunt dui ut ornare lectus sit.
+Junto ao CHUC (Centro Hospitalar e Universitário da Universidade de Coimbra)
+
+Mapa
+
+Sala:
+
+Dia 17 julho: Auditório do iCBR
+
+Dias 18, 19 e 20 julho: Auditório 2 da Sub-Unidade 1, edifício da Faculdade de Medicina
+
+Dúvidas: escolaveraocibit@gmail.com ou Twitter: @CIBIT_UC

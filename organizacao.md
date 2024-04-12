@@ -1,10 +1,12 @@
 ---
-layout: contributors
+layout: page
 title: Organização
-description: List of organizers and participants
+description: 
 navorder: 4
 ---
 
-Rutrum tellus pellentesque eu tincidunt tortor aliquam nulla facilisi. Scelerisque felis imperdiet proin fermentum leo vel orci. Turpis massa sed elementum tempus egestas. Sodales ut etiam sit amet nisl purus in mollis.
+O Centro de Imagem Biomédica e Investigação Translacional (CIBIT), sediado no Instituto de Ciências Nucleares Aplicadas à Saúde da Universidade de Coimbra (ICNAS), é um instituto dedicado à investigação fundamental e aplicada nas áreas da imagem biomédica e neurociências clínicas, procurando a translação do conhecimento científico para a prática clínica.
 
-Massa tincidunt dui ut ornare lectus sit.
+O CIBIT reúne profissionais de diferentes áreas, desde a engenharia biomédica, à psicologia, passando pela medicina, biologia e bioquímica. Desenvolve trabalhos em colaboração com clínicos, associações de doentes e também com a indústria. Dispõe de um conjunto de equipamentos e infraestruturas que possibilitam o desenvolvimento de investigação de ponta.
+
+A Escola de Verão é uma excelente oportunidade para ficares a conhecer melhor o CIBIT e o trabalho que aqui se desenvolve!

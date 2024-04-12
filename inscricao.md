@@ -1,10 +1,10 @@
 ---
-layout: contributors
+layout: page
 title: Inscrição
-description: List of organizers and participants
+description: 
 navorder: 2
 ---
 
-Rutrum tellus pellentesque eu tincidunt tortor aliquam nulla facilisi. Scelerisque felis imperdiet proin fermentum leo vel orci. Turpis massa sed elementum tempus egestas. Sodales ut etiam sit amet nisl purus in mollis.
+Atingimos o limite máximo de inscrições, por isso, não vamos poder aceitar mais participantes!
 
-Massa tincidunt dui ut ornare lectus sit.
+No próximo ano estaremos de volta para mais uma edição da Escola de Verão CIBIT-ICNAS.
