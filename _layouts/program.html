@@ -76,12 +76,12 @@ layout: default
                                 <div class="row col-lg-10 border-start border-3 border-{{ classes }}">
                                     {% if event.category %}
                                     <h5 class="fw-normal m-0 mb-2">{{ event.title }}</h5>
-									{% for speaker in event.events %}
+									{% for speaker in event.speaker %}
                                     <p class="fw-light m-0"><a href="../contributors/">{{ speaker }}</a></p>
 									{% endfor %}
                                     {% else %}
                                     <h5 class="fw-light text-muted m-0 mb-2">{{ event.title }}</h5>
-									{% for speaker in event.events %}
+									{% for speaker in event.speaker %}
                                     <p class="fw-light m-0"><a href="../contributors/">{{ speaker }}</a></p>
 									{% endfor %}
                                     {% endif %}
