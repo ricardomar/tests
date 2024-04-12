@@ -53,7 +53,41 @@ days:
       - time: "16:30"
         title: "Atividade Social"
 
-  - name: Day 2
+days:
+  - name: "Day 2"
+    events:
+      - time: "09:30 to 10:00"
+        title: "Eye-Tracking"
+        subtitle: "João Castelhano"
+
+      - time: "10:00 to 10:30"
+        title: "Exames Psicofísicos"
+        subtitle: "Hugo Quental"
+
+      - time: "10:30 to 11:00"
+        title: "Avaliação Neuropsicológica em Contextos de Investigação"
+        subtitle: "Daniela Sousa"
+
+      - time: "11:00 to 11:30"
+        title: "Pausa"
+
+      - time: "11:30 to 12:00"
+        title: "Imagem Molecular: da Química à Clínica"
+        subtitle: "Antero Abrunhosa"
+
+      - time: "12:00 to 12:30"
+        title: "Experimentação Animal"
+        subtitle: "Joana Gonçalves, João Martins"
+
+      - time: "12:30 to 14:00"
+        title: "Almoço"
+
+      - time: "14:00 to 16:30"
+        title: "Oficinas de Demonstração"
+        subtitle: "tutores"
+
+
+  - name: Day 99
     events:
       - time: 8:00 to 9:00
         title: Coffee
