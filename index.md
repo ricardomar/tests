@@ -1,7 +1,7 @@
 ---
 layout: index
-description01: "Uma volta ao cérebro em 4 dias!"
-description02: "Escola de Verão CIBIT-ICNAS. De 17 a 20 de Julho de 2023"
+description01: "Escola de Verão: uma volta ao cérebro em 4 dias"
+description02: "**Organização:** CIBIT-ICNAS, Universidade de Coimbra. **Data:** 17 a 20 de Julho de 2023"
 ---
 
 Se tens interesse em Neurociências e gostavas de saber mais sobre o funcionamento do cérebro, não percas esta oportunidade!
@@ -13,6 +13,6 @@ Nesta viagem ao cérebro em 4 dias, vais:
 * Descobrir as aplicações práticas dos estudos que fazemos no CIBIT;
 * Contactar com investigadores, de forma informal e conhecer as nossas instalações;
 
-A Escola de Verão vai decorrer de 17 a 20 de Julho, no Polo III - Ciências da Saúde da Universidade de Coimbra, em regime apenas presencial.
+A Escola de Verão vai decorrer de 17 a 20 de Julho, no Polo III - Ciências da Saúde da Universidade de Coimbra, apenas em regime presencial.
  
 **A inscrição é gratuita mas obrigatória, até dia 12 de Julho!**
