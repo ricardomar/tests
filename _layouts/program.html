@@ -77,12 +77,12 @@ layout: default
                                     {% if event.category %}
                                     <h5 class="fw-normal m-0 mb-2">{{ event.title }}</h5>
 									{% for speaker in event.speaker %}
-                                    <p class="fw-light m-0"><a href="../contributors/">{{ speaker.name }}</a></p>
+                                    <p class="fw-light m-0"><a href="../contributors/">{{ speaker.name }} {{ speaker.sufix }}</a></p>
 									{% endfor %}
                                     {% else %}
                                     <h5 class="fw-light text-muted m-0 mb-2">{{ event.title }}</h5>
 									{% for speaker in event.speaker %}
-                                    <p class="fw-light m-0"><a href="../contributors/">{{ speaker.name }}</a></p>
+                                    <p class="fw-light m-0"><a href="../contributors/">{{ speaker.name }} {{ speaker.sufix }}</a></p>
 									{% endfor %}
                                     {% endif %}
                                 </div>
