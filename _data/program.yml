@@ -19,9 +19,9 @@ days:
           subtitle: "Miguel Castelo-Branco"
           category: Apresentação
           
-        - time: 10.45 11.30"
+        - time: "10.45 - 11.30"
           title: "Investigação em Neurociências Conceitos e Práticas"
-          subtitle: Miguel Castelo Branco
+          subtitle: "Miguel Castelo-Branco"
           category: Apresentação          
 
   - name: 18 Julho
@@ -34,7 +34,7 @@ days:
           subtitle: "Miguel Castelo-Branco"
           category: Apresentação
           
-        - time: 10.45 11.30"
+        - time: "10.45 - 11.30"
           title: "Investigação em Neurociências Conceitos e Práticas"
-          subtitle: Miguel Castelo Branco
-          category: Apresentação   
+          subtitle: "Miguel Castelo-Branco"
+          category: Apresentação    
