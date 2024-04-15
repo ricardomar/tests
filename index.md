@@ -1,12 +1,12 @@
 ---
 layout: index
 description01: "Uma volta ao cérebro em 4 dias!"
-description02: CIBIT-ICNAS, Universidade de Coimbra. 17 a 20 de Julho de 2023.
+description02: Universidade de Coimbra. 17 a 20 de Julho de 2023.
 ---
 
 Se tens interesse em Neurociências e gostavas de saber mais sobre o funcionamento do cérebro, não percas esta oportunidade!
 
-Nesta viagem ao cérebro em 4 dias, [organizada pelos investigadores do CIBIT-ICNAS](organizacao), vais:
+Nesta [viagem ao cérebro em 4 dias](programa), organizada pelos [investigadores do CIBIT-ICNAS](organizacao), vais:
 
 * Perceber como se faz investigação na área das Neurociências;
 * Conhecer as diferentes técnicas usadas para estudar o funcionamento do cérebro;
