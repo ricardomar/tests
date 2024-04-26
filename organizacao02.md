@@ -2,7 +2,7 @@
 layout: page02
 title: Organização
 description: 
-navorder: 4
+navorder:
 ---
 
 **Centro de Imagem Biomédica e Investigação Translacional (CIBIT)**:O Centro de Imagem Biomédica e Investigação Translacional (CIBIT), sediado no Instituto de Ciências Nucleares Aplicadas à Saúde da Universidade de Coimbra (ICNAS), é um instituto dedicado à investigação fundamental e aplicada nas áreas da imagem biomédica e neurociências clínicas, procurando a translação do conhecimento científico para a prática clínica.
