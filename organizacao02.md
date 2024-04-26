@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Organização02
+layout: page02
+title: Organização
 description: 
 navorder: 4
 ---
