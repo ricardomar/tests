@@ -16,3 +16,5 @@ Nesta [viagem ao cérebro em 4 dias](programa), organizada pelos [investigadores
 A Escola de Verão vai decorrer de 17 a 20 de Julho, [no Polo III - Ciências da Saúde da Universidade de Coimbra](local), apenas em regime presencial.
  
 **A inscrição é gratuita [mas obrigatória](inscricao), até dia 12 de Julho!**
+
+Para mais informações ou esclarecimentos [podes contactar a organização do evento](organizacao).
