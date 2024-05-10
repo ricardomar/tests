@@ -11,7 +11,7 @@ O CIBIT reúne profissionais de diferentes áreas, desde a engenharia biomédica
 organizer02_name: "ICNAS - Instituto de Ciências Nucleares Aplicadas à Saúde"
 organizer02_logo: "icnas-logo.png"
 organizer02_site: "https://www.uc.pt/icnas/"
-organizer02_description: "O ICNAS é uma unidade orgânica de investigação da Universidade de Coimbra. Inaugurado em 2009, o ICNAS veio colmatar uma lacuna do tecido científico/tecnológico de Portugal na produção de novos marcadores moleculares e investigação em imagem médica. As actividades desenvolvidas no ICNAS têm um carácter multidisciplinar. É um instituto com forte ligação à investigação básica e clínica, com grande ênfase nas neurociências e doenças crónicas. </br> </br> 
+organizer02_description: "O ICNAS é uma unidade orgânica de investigação da Universidade de Coimbra, inaugurada em 2009. As actividades desenvolvidas no ICNAS têm um carácter multidisciplinar. É um instituto com forte ligação à investigação básica e clínica, com grande ênfase nas neurociências e doenças crónicas. </br> </br> 
 O ICNAS colabora com uma vasta rede de parceiros nacionais e internacionais nas áreas da imagem médica e investigação translacional, nomeadamente no desenvolvimento de novos marcadores moleculares, investigação de ponta com técnicas de imagem multimodais, imagem médica estrutural e funcional, investigação biomédica translacional.
 "
 ---
