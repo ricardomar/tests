@@ -3,17 +3,9 @@ layout: local
 title: Local
 description: 
 navorder: 3
+map_image: "HCampusMap-v2.png"
+map_google: "https://www.google.com/maps/@40.2189027,-8.4165774,355m/data=!3m1!1e3!5m1!1e4?entry=ttu"
+address: "Universidade de Coimbra, Pólo III – Ciências da Saúde"
+room_list: "Teste 1</br>Teste 2"
+contact_list:"Teste 3</br>Teste 4"
 ---
-
-* **Local**: 
-Pólo III – Ciências da Saúde, Universidade de Coimbra Rua Santa Comba, 3000-548 Coimbra
-Junto ao CHUC (Centro Hospitalar e Universitário da Universidade de Coimbra)
-
-* **Sala:**
-
-Dia 17 julho: Auditório do iCBR
-
-Dias 18, 19 e 20 julho: Auditório 2 da Sub-Unidade 1, edifício da Faculdade de Medicina
-
-* **Contactos:** 
-escolaveraocibit@gmail.com ou Twitter: @CIBIT_UC
