@@ -9,6 +9,7 @@ layout: default
     <div class="container">
         <h1 class="display-5">{{ title }}</h1>
         <hr class="my-4">
+		
         <div class="row align-items-start">
             <div class="col-md-6">
                 <!-- Image goes here -->
@@ -21,17 +22,19 @@ layout: default
         </div>
 		
 		<div class="my-4"></div>
-		
-        
-		<div class="row align-items-start">
+		        
+        <div class="row align-items-start">
             <div class="col-md-6">
                 <!-- Image goes here -->
-                <img src="../assets/images/icnas-logo.png" class="img-fluid" alt="Image">
+                <img src="../assets/images/{{ page.organizer02_logo }}" class="img-fluid" alt="Image">
             </div>
             <div class="col-md-6">
-                {{ content }}
+				<p><a href="{{ page.organizer02_site }}" target="_blank">{{ page.organizer02_name }}</a></p>
+                <p>{{ page.organizer02_description }}</p>
             </div>
-        </div>		
+        </div>	
+
+		
     </div>
 </main>
 
