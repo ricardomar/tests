@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: organizacao
 title: Organização
 description: 
 navorder: 4
