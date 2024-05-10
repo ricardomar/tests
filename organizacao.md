@@ -3,6 +3,7 @@ layout: organizacao
 title: Organização
 description: 
 navorder: 4
+organizer00_contact: "Email: escolaveraocibit@gmail.com</br>Twitter: @CIBIT_UC"
 organizer01_name: "CIBIT - Centro de Imagem Biomédica e Investigação Translacional"
 organizer01_logo: "cibit-logo.png"
 organizer01_site: "https://www.uc.pt/icnas/cibit/"
