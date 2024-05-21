@@ -1,6 +1,6 @@
 ---
 layout: index
-description01: "Uma volta ao cérebro em 4 dias!"
+description01: "Uma viagem ao cérebro em 4 dias!"
 description02: "Universidade de Coimbra. 17 a 20 de Julho de 2023"
 ---
 
