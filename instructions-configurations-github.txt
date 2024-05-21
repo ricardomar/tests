@@ -1,6 +1,10 @@
 seguir o exemplo para colocar a correr com a versão de jekkyls mais recente
 https://jekyllrb.com/docs/continuous-integration/github-actions/
 
+ATENÇÃO:
+Start a New workflow and search for Jekyll.
+Click Configure under the Jekyll workflow (NOT GitHub Pages Jekyll workflow).
+
 meter isso a correr ok.
 
 e depois meter no nosso gem file real que são as dependências da versão 2.0 deste template.
