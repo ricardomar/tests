@@ -8,7 +8,7 @@ legend:
     - name: actividade
       color: teal-6
 days:
-  - name: "Segunda - 17"
+  - name: "Segunda - 15"
     events:
       - time: "10:00 to 10:30"
         title: "Receção – Confirmação do Registo"
@@ -59,32 +59,29 @@ days:
               url: "https://www.cienciavitae.pt/"        
         category: palestra
 
-      - time: "15:15 to 15:30"
-        title: "Pausa"
-
-      - time: "15:30 to 16:00"
-        title: "Ciência Aberta: Conceitos e Práticas"
-        speaker: 
-            - name: "Inês Almeida"
-              suffix:
-              url: "https://www.cienciavitae.pt/"        
-        category: palestra
-
-      - time: "16:00 to 16:30"
+      - time: "15:15 to 15:45"
         title: "Comunicação de Ciência: Uma perda de tempo?"
         speaker: 
             - name: "Inês Bernardino"
               suffix:
               url: "https://www.cienciavitae.pt/"        
         category: palestra
+        
+        
+      - time: "15:45 to 16:00"
+        title: "Pausa"
 
-      - time: "16:30 to 17:30"
-        title: "Atividade Social"      
+      - time: "16:00 to 17:00"
+        title: "How to prepare a pitch talk?"
+        speaker: 
+            - name: "Jorge Pimenta"
+              suffix:
+              url: "https://www.cienciavitae.pt/"           
         category: actividade
 
-  - name: "Terça - 18"
+  - name: "Terça - 16"
     events:
-      - time: "09:30 to 10:00"
+      - time: "10:00 to 10:30"
         title: "Eye-Tracking"
         speaker: 
             - name: "João Castelhano"
@@ -92,18 +89,21 @@ days:
               url: "https://www.cienciavitae.pt/"        
         category: palestra
 
-      - time: "10:00 to 10:30"
-        title: "Exames Psicofísicos"
+      - time: "10:30 to 11:00"
+        title: "Avaliação Neuropsicológica"
         speaker: 
-            - name: "Hugo Quental"
+            - name: "Susana Mouga"
               suffix:
               url: "https://www.cienciavitae.pt/"        
         category: palestra
+        
+      - time: "11:00 to 11:30"
+        title: "Pausa"        
 
-      - time: "10:30 to 11:00"
-        title: "Avaliação Neuropsicológica em Contextos de Investigação"
+      - time: "11:30 to 12:00"
+        title: "Imagem Molecular: da Imagem à Clínica"
         speaker:
-            - name: "Daniela Sousa"
+            - name: "Antero Abrunhosa"
               suffix:
               url: "https://www.cienciavitae.pt/"        
         category: palestra
@@ -124,10 +124,7 @@ days:
         speaker: 
             - name: "Joana Gonçalves"
               suffix:
-              url: "https://www.cienciavitae.pt/"
-            - name: "João Martins"
-              suffix:
-              url: "https://www.cienciavitae.pt/"              
+              url: "https://www.cienciavitae.pt/"            
         category: palestra
 
       - time: "12:30 to 14:00"
@@ -137,29 +134,26 @@ days:
         title: "Oficinas de Demonstração"
         speaker: 
             - name: "Joana Gonçalves"
-              suffix: "(experimentação animal)"
+              suffix: "(experimentação animal: biotério, ICNAS)"
               url: "https://www.cienciavitae.pt/" 
             - name: "João Martins"
-              suffix: "(experimentação animal)"
-              url: "https://www.cienciavitae.pt/" 
-            - name: "Mariana Pais"
-              suffix: "(experimentação animal)"
-              url: "https://www.cienciavitae.pt/" 
-            - name: "João Castelhano"
-              suffix: "(eye-tracking)"
+              suffix: "(experimentação animal: biotério, ICNAS)"
               url: "https://www.cienciavitae.pt/" 
             - name: "Hugo Quental"
-              suffix: "(exames psicofísicos)"
+              suffix: "(exames psicofísios: lab., iCBR)"
+              url: "https://www.cienciavitae.pt/" 
+            - name: "João Castelhano"
+              suffix: "(eye-tracking: lab. 94, iCBR)"
               url: "https://www.cienciavitae.pt/" 
             - name: "Rita Correia"
-              suffix: "(realidade virtual)"
+              suffix: "(realidade virtual: lab. 55, iCBR)"
               url: "https://www.cienciavitae.pt/" 
             - name: "Daniel Agostinho"
-              suffix: "(realidade virtual)"
+              suffix: "(realidade virtual: lab. 55, iCBR)"
               url: "https://www.cienciavitae.pt/"               
         category: visita
 
-  - name: "Quarta - 19"
+  - name: "Quarta - 17"
     events:
       - time: "09:30 to 10:00"
         title: "Ressonância Magnética: Estrutural e Funcional; Neurofeedback"
@@ -178,7 +172,7 @@ days:
         category: palestra
 
       - time: "10:30 to 11:00"
-        title: "fNIRS"
+        title: "Espectrografia Funcional de Infravermelho Próximo (fNIRS)"
         speaker:
             - name: "João Pereira"
               suffix:
@@ -211,168 +205,234 @@ days:
         title: "Oficinas de Demonstração"
         speaker: 
             - name: "Catarina Duarte"
-              suffix: "(estimulação cerebral)"
+              suffix: "(estimulação cerebral: sala TMS, ICNAS)"
               url: "https://www.cienciavitae.pt/"
-            - name: "Marta Teixeira"
-              suffix: "(EEG)"
+            - name: "Maria Coelho"
+              suffix: "(EEG: lab.58, iCBR)"
               url: "https://www.cienciavitae.pt/"
             - name: "Ricardo Martins"
-              suffix: "(ressonância magnética)"
+              suffix: "(ressonância magnética: unidade MRI, ICNAS)"
               url: "https://www.cienciavitae.pt/"
             - name: "Alexandre Sayal"
-              suffix: "(ressonância magnética)"
+              suffix: "(ressonância magnética: unidade MRI, ICNAS)"
               url: "https://www.cienciavitae.pt/"
             - name: "João Pereira"
-              suffix: "(fNIRS)"
+              suffix: "(fNIRS: sala fNIRS, ICNAS)"
               url: "https://www.cienciavitae.pt/"              
         category: visita
 
-  - name: "Quinta - 20"
+  - name: "Quinta - 18"
     events:
-      - time: "09:30 to 09:50"
-        title: "A Unidade Neurogliovascular: da Construção à Função"
+      - time: "09:30 to 09:45"
+        title: "Reaprendizagem social em psiquiatria: potencial terapêutico de substâncias psicadélicas"
         speaker:
+            - name: "Catarina Gomes"
+              suffix:
+              url: "https://www.cienciavitae.pt/"        
+        category: palestra
+
+      - time: "09:45 to 10:00"
+        title: "Os guardiões do Cérebro: A Importância dos Vasos"
+        speaker: 
             - name: "Vanessa Coelho-Santos"
               suffix:
-              url: "https://www.cienciavitae.pt/"        
-        category: palestra
-
-      - time: "09:50 to 10:10"
-        title: "Investigação Pré-clínica em Doenças do Neurodesenvolvimento"
-        speaker: 
-            - name: "João Martins"
-              suffix:
-              url: "https://www.cienciavitae.pt/"
-            - name: "Joana Gonçalves"
-              suffix:
               url: "https://www.cienciavitae.pt/"              
         category: palestra
 
-      - time: "10:10 to 10:30"
-        title: "Medicina Personalizada no Autismo - Projeto Aims-2-Trials"
+      - time: "10:00 to 10:15"
+        title: "Redes plásticas em autismo"
         speaker:
-            - name: "Andreia Pereira"
+            - name: "Francisco Ribeiro"
               suffix:
               url: "https://www.cienciavitae.pt/"        
         category: palestra
 
-      - time: "10:30 to 10:50"
-        title: "Análise de Textura em OCT"
+      - time: "10:15 to 10:30"
+        title: "lterações sensoriais em autismo: investigando circuitos neuronais em murganhos"
         speaker:
-            - name: "Ana Nunes"
+            - name: "Helena Ferreira"
               suffix:
               url: "https://www.cienciavitae.pt/"        
         category: palestra
+        
+      - time: "10:30 to 10:45"
+        title: "O processamento do conflito em contexto socioemocional no autismo"
+        speaker:
+            - name: "Maria Coelho"
+              suffix:
+              url: "https://www.cienciavitae.pt/"        
+        category: palestra        
 
-      - time: "10:50 to 11:10"
+      - time: "10:45 to 11:00"
         title: "Pausa"
 
-      - time: "11:10 to 11:30"
-        title: "Investigação em Psicadélicos"
+      - time: "11:00 to 11:15"
+        title: "Delirium pos-operatório nos idosos: mecanismos neurofisiológicos identificados por RMN"
         speaker:
-            - name: "Marta Teixeira"
+            - name: "Ana Bernardino"
               suffix:
-              url: "https://www.cienciavitae.pt/"
-            - name: "Carla Soares"
-              suffix:
-              url: "https://www.cienciavitae.pt/"
-            - name: "Gisela Lima"
-              suffix:
-              url: "https://www.cienciavitae.pt/"              
+              url: "https://www.cienciavitae.pt/"             
         category: palestra
 
-      - time: "11:30 to 11:50"
-        title: "Neuropsicobiologia da Violência em Relações com Parceiro Íntimo - da Ideia à Implementação"
+      - time: "11:15 to 11:30"
+        title: "O papel da depressão e ansiedade perinatal na vinculação mãe-bébé: correlatos neurobiológicos e comportamentais"
         speaker:
-            - name: "Joana Oliveira"
+            - name: "Vera Martins"
               suffix:
               url: "https://www.cienciavitae.pt/"        
         category: palestra
 
-      - time: "11:50 to 12:10"
-        title: "Tomada de Decisão em Cenários Críticos de Combate a Incêndios"
+      - time: "11:30 to 11:45"
+        title: "Estigma associado à doença mental: correlatos e preditores psicossociais e neurais"
         speaker:
-            - name: "Catarina Duarte"
+            - name: "Carolina Cabaços"
               suffix:
-              url: "https://www.cienciavitae.pt/"
-            - name: "Joana Oliveira"
-              suffix:
-              url: "https://www.cienciavitae.pt/"              
+              url: "https://www.cienciavitae.pt/""              
         category: palestra
 
-      - time: "12:10 to 12:30"
-        title: "Modelos Computacionais e Neuroimagem - Biomarcadores e Novas Oportunidades"
+      - time: "11:45 to 12:00"
+        title: "Sincronia cerebral entre irmãos: evidencia baseada em hyperscanning multimodal"
         speaker:
-            - name: "Bruno Direito"
+            - name: "Diana Costa"
               suffix:
               url: "https://www.cienciavitae.pt/"        
         category: palestra
+        
+      - time: "12:00 to 12:15"
+        title: "À descoberta da ligação neurovascular interocular."
+        speaker:
+            - name: "João Jordão"
+              suffix:
+              url: "https://www.cienciavitae.pt/"        
+        category: palestra    
+        
+      - time: "12:15 to 12:30"
+        title: "Language as an important factor changing decisions."
+        speaker:
+            - name: "Leona Polyanskaya"
+              suffix:
+              url: "https://www.cienciavitae.pt/"        
+        category: palestra            
 
       - time: "12:30 to 14:00"
         title: "Almoço"
 
-      - time: "14:00 to 14:20"
-        title: "Uma volta ao Cérebro do Arquimedes quando exclamou 'Eureka!'"
+      - time: "14:00 to 14:15"
+        title: "Investigação em Psicadélicos"
         speaker:
-            - name: "João Castelhano"
+            - name: "Carla Soares"
               suffix:
               url: "https://www.cienciavitae.pt/"        
         category: palestra
 
-      - time: "14:20 to 14:40"
-        title: "Diferentes Abordagens de Neuromodulação na Perturbação Obsessivo-Compulsiva"
+      - time: "14:15 to 14:30"
+        title: "Como é que adultos com autismo aprendem com os erros?"
         speaker: 
+            - name: "Camila Dias"
+              suffix:
+              url: "https://www.cienciavitae.pt/"        
+        category: palestra
+
+      - time: "14:30 to 14:45"
+        title: "Neuromodulação na POC: Abordagens não-invasivas e não-farmacológicas?"
+        speaker:
             - name: "Teresa Sousa"
               suffix:
               url: "https://www.cienciavitae.pt/"        
         category: palestra
 
-      - time: "14:40 to 15:00"
-        title: "Neuroimagiologia e Neuromodulação em Perturbações Psicóticas"
+      - time: "15:00 to 15:15"
+        title: tbc
         speaker:
-            - name: "Nuno Madeira"
+            - name: "Pedro Guimarães"
               suffix:
               url: "https://www.cienciavitae.pt/"        
         category: palestra
 
-      - time: "15:00 to 15:20"
-        title: "Perda Auditiva no Envelhecimento"
+      - time: "15:15 to 15:30"
+        title: "Neuroimagem multimodal no Primeiro Episódio Psicótico: biomarcadores de resposta ao tratamento"
         speaker:
-            - name: "Tatiana Marques"
+            - name: "Miguel Bajouco"
               suffix:
               url: "https://www.cienciavitae.pt/"        
         category: palestra
 
-      - time: "15:20 to 15:40"
-        title: "Neurociências do Envelhecimento"
-        speaker:
-            - name: "Maria Ribeiro"
-              suffix:
-              url: "https://www.cienciavitae.pt/"        
-        category: palestra
-
-      - time: "15:40 to 16:00"
+      - time: "15:30 to 16:00"
         title: "Pausa"
 
       - time: "16:00 to 16:45"
-        title: "Mesa Redonda: Investigação em Neurociência - Percursos e Carreiras"
+        title: "Mesa Redonda: À conversa com investigadores - percursos e experiências"
         speaker:
-            - name: "Ana Cortês"
+            - name: "Maria Coelho"
               suffix:
               url: "https://www.cienciavitae.pt/"
-            - name: "Miguel Bajouco"
+            - name: "Joana Gonçalves"
               suffix:
               url: "https://www.cienciavitae.pt/"
-            - name: "Susana Mouga"
+            - name: "Nuno Madeira"
               suffix:
-              url: "https://www.cienciavitae.pt/"
-            - name: "Vanessa Coelho-Santos"
-              suffix:
-              url: "https://www.cienciavitae.pt/"
-            - name: "Miguel Castelo-Branco"
-              suffix:
-              url: "https://www.cienciavitae.pt/"              
+              url: "https://www.cienciavitae.pt/"           
         category: actividade
+        
+  - name: "Sexta - 18"
+    events:
+      - time: "09:30 to 12:30"
+        title: "Concurso de ideias de projetos de investigação: grupos de trabalho, objectivos, plano de trabalhos"
+        speaker:
+            - name: "João Martins"
+              suffix: (tutor)
+              url: "https://www.cienciavitae.pt/"   
+            - name: "Otília d'Almeida"
+              suffix: (tutor)
+              url: "https://www.cienciavitae.pt/" 
+            - name: "Catarina Duarte"
+              suffix: (tutor)
+              url: "https://www.cienciavitae.pt/" 
+            - name: "Susana Mouga"
+              suffix: (tutor)
+              url: "https://www.cienciavitae.pt/"             
+        category: palestra
+        
+      - time: "12:30 to 14:00"
+        title: "Almoço"    
 
-      - time: "16:45 to 17:00"
-        title: "Encerramento"
+        
+      - time: "14:00 to 15:00"
+        title: "Concurso de ideias de projetos de investigação: finalização da apresentação/pitch"
+        speaker:
+            - name: "João Martins"
+              suffix: (tutor)
+              url: "https://www.cienciavitae.pt/"   
+            - name: "Otília d'Almeida"
+              suffix: (tutor)
+              url: "https://www.cienciavitae.pt/" 
+            - name: "Catarina Duarte"
+              suffix: (tutor)
+              url: "https://www.cienciavitae.pt/" 
+            - name: "Susana Mouga"
+              suffix: (tutor)
+              url: "https://www.cienciavitae.pt/"             
+        category: palestra        
+        
+    
+
+      - time: "14:00 to 15:00"
+        title: "Concurso de ideias de projetos de investigação: apresentação, feedback, prémios"
+        speaker:
+            - name: "Miguel Castelo-Branco"
+              suffix: (júri)
+              url: "https://www.cienciavitae.pt/"   
+            - name: "Catarina Gomes"
+              suffix: (júri)
+              url: "https://www.cienciavitae.pt/" 
+            - name: "Teresa Sousa"
+              suffix: (júri)
+              url: "https://www.cienciavitae.pt/" 
+            - name: "Vanessa Coelho-Santos"
+              suffix: (júri)
+              url: "https://www.cienciavitae.pt/"
+            - name: "Inês Bernardino"
+              suffix: (júri)
+              url: "https://www.cienciavitae.pt/"                
+        category: palestra  
+        
