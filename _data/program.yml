@@ -10,6 +10,9 @@ legend:
 days:
   - name: "Segunda (15)"
     events:
+      - time: "10:30 to 10:30"
+        title: "Dia #1 - Investigação em Neurociências: conceitos e contextos"
+        
       - time: "10:00 to 10:30"
         title: "Receção – Confirmação do Registo"
 
