@@ -296,5 +296,13 @@ days:
             - name: "Diana Costa"
               suffix:
               url: "https://www.cienciavitae.pt/"        
-        category: palestra          
-      
+        category: palestra 
+
+      - time: "11:45 to 12:00"
+        title: "Sincronia cerebral entre irmãos: evidencia baseada em hyperscanning multimodal"
+        speaker:
+            - name: "Diana Costa"
+              suffix:
+              url: "https://www.cienciavitae.pt/"        
+        category: palestra         
+                
