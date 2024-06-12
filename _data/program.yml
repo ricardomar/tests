@@ -298,10 +298,10 @@ days:
               url: "https://www.cienciavitae.pt/"        
         category: palestra 
 
-      - time: "11:45 to 12:00"
+      - time: "12:00 to 12:15"
         title: "Sincronia cerebral entre irmãos: evidencia baseada em hyperscanning multimodal"
         speaker:
-            - name: "Diana Costa"
+            - name: "João Jordão"
               suffix:
               url: "https://www.cienciavitae.pt/"        
         category: palestra         
