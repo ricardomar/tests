@@ -19,6 +19,10 @@ days:
         
       - time: "10:00 to 10:30"
         title: "Receção – Confirmação do Registo"
+        speaker: 
+            - name: "Miguel Castelo-Branco"
+              suffix:
+              url: "https://www.cienciavitae.pt/"        
 
       - time: "10:30 to 10:45"
         title: "CIBIT – Desafios da Investigação Translacional"
