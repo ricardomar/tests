@@ -45,6 +45,7 @@ layout: default
             {% assign width = 12 %}
             {% endif %}
             <div class="col-lg-{{ width }}">
+				<div>Teste</div>
                 {% for day in site.data.program.days %}
                 {% assign id = forloop.index | prepend: 'day-' %}
                 {% assign classes = 'tab-pane fade' %}
@@ -52,7 +53,6 @@ layout: default
                 {% assign classes = classes | append: ' active show' %}
                 {% endif %}
                 <div class="tab-content aos-init aos-animate" data-aos="fade-up">
-					<div>Teste</div>
                     <div class="{{ classes }}" id="{{ id }}" role="tabpanel" aria-labelledby="{{ id }}-tab">
                         {% assign categories = site.data.program.legend.categories %}								
                         <ul class="list-unstyled lh-sm">
