@@ -298,11 +298,3 @@ days:
               url: "https://www.cienciavitae.pt/"        
         category: palestra          
       
-     - time: "12:00 to 12:15"
-        title: "À descoberta da ligação neurovascular interocular."
-        speaker:
-            - name: "João Jordão"
-              suffix:
-              url: "https://www.cienciavitae.pt/"        
-        category: palestra
-        
