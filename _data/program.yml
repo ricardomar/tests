@@ -8,12 +8,12 @@ legend:
     - name: actividade
       color: teal-6
     - name: dia
-      color: blue-6      
+      color: grape-6      
       
 days:
   - name: "Segunda (15)"
     events:
-      - time: "10:30 to 10:30"
+      - time: "10:00 to 10:00"
         title: "Dia #1 - Investigação em Neurociências: conceitos e contextos"
         category: dia
         
