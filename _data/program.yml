@@ -313,4 +313,64 @@ days:
               suffix:
               url: "https://www.cienciavitae.pt/"        
         category: palestra 
-        
+
+      - time: "12:30 to 14:00"
+        title: "Almoço"
+
+      - time: "14:00 to 14:15"
+        title: "Investigação em Psicadélicos"
+        speaker:
+            - name: "Carla Soares"
+              suffix:
+              url: "https://www.cienciavitae.pt/"        
+        category: palestra
+
+      - time: "14:15 to 14:30"
+        title: "Como é que adultos com autismo aprendem com os erros?"
+        speaker: 
+            - name: "Camila Dias"
+              suffix:
+              url: "https://www.cienciavitae.pt/"        
+        category: palestra
+
+      - time: "14:30 to 14:45"
+        title: "Neuromodulação na POC: Abordagens não-invasivas e não-farmacológicas?"
+        speaker:
+            - name: "Teresa Sousa"
+              suffix:
+              url: "https://www.cienciavitae.pt/"        
+        category: palestra
+
+      - time: "15:00 to 15:15"
+        title: "tbc"
+        speaker:
+            - name: "Pedro Guimarães"
+              suffix:
+              url: "https://www.cienciavitae.pt/"        
+        category: palestra
+
+      - time: "15:15 to 15:30"
+        title: "Neuroimagem multimodal no Primeiro Episódio Psicótico: biomarcadores de resposta ao tratamento"
+        speaker:
+            - name: "Miguel Bajouco"
+              suffix:
+              url: "https://www.cienciavitae.pt/"        
+        category: palestra
+
+      - time: "15:30 to 16:00"
+        title: "Pausa"
+
+      - time: "16:00 to 16:45"
+        title: "Mesa Redonda: À conversa com investigadores - percursos e experiências"
+        speaker:
+            - name: "Maria Coelho"
+              suffix:
+              url: "https://www.cienciavitae.pt/"
+            - name: "Joana Gonçalves"
+              suffix:
+              url: "https://www.cienciavitae.pt/"
+            - name: "Nuno Madeira"
+              suffix:
+              url: "https://www.cienciavitae.pt/"           
+        category: actividade
+                
