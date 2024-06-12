@@ -399,7 +399,7 @@ days:
             - name: "Susana Mouga"
               suffix: (tutor)
               url: "https://www.cienciavitae.pt/"             
-        category: palestra
+        category: actividade
         
       - time: "12:30 to 14:00"
         title: "Almoço"    
@@ -420,7 +420,7 @@ days:
             - name: "Susana Mouga"
               suffix: (tutor)
               url: "https://www.cienciavitae.pt/"             
-        category: palestra        
+        category: actividade        
         
     
 
@@ -442,5 +442,5 @@ days:
             - name: "Inês Bernardino"
               suffix: (júri)
               url: "https://www.cienciavitae.pt/"                
-        category: palestra  
+        category: actividade  
                         
