@@ -45,7 +45,7 @@ layout: default
             {% assign width = 12 %}
             {% endif %}
             <div class="col-lg-{{ width }}">
-				<div>Teste</div>
+				<div>Teste2 {{ day.name }} </div>
                 {% for day in site.data.program.days %}
                 {% assign id = forloop.index | prepend: 'day-' %}
                 {% assign classes = 'tab-pane fade' %}
