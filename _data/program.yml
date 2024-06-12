@@ -340,6 +340,14 @@ days:
               suffix:
               url: "https://www.cienciavitae.pt/"        
         category: palestra
+        
+      - time: "14:44 to 15:00"
+        title: "tbc"
+        speaker:
+            - name: "tbc"
+              suffix:
+              url: "https://www.cienciavitae.pt/"        
+        category: palestra        
 
       - time: "15:00 to 15:15"
         title: "tbc"
