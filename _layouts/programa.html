@@ -54,7 +54,10 @@ layout: default
                 <div class="tab-content aos-init aos-animate" data-aos="fade-up">
                     <div class="{{ classes }}" id="{{ id }}" role="tabpanel" aria-labelledby="{{ id }}-tab">
                         {% assign categories = site.data.program.legend.categories %}
-						<div class="list-unstyled lh-sm">Teste6 {{ day.topic }} </div>
+
+						<ul class="list-unstyled lh-sm">
+						<li class="d-flex flex-column flex-lg-row ms-2"> Teste7 {{ day.topic }}</li>
+						</ul>
                         <ul class="list-unstyled lh-sm">
                             {% for event in day.events %}
                             {% if event.category %}
