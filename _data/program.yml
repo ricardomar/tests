@@ -11,7 +11,7 @@ legend:
       color: grape-6      
       
 days:
-  - name: "Segunda (15)"
+  - name: "Segunda (15) - Investigação em Neurociências: conceitos e contextos"
     events:
       - time: "10:00 to 10:00"
         title: "Dia #1 - Investigação em Neurociências: conceitos e contextos"
