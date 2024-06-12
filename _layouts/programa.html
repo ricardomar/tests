@@ -50,8 +50,8 @@ layout: default
                 {% assign classes = 'tab-pane fade' %}
                 {% if forloop.first %}
                 {% assign classes = classes | append: ' active show' %}
-                {% endif %}
-				<div>Teste2 {{ day.name }} </div>
+				<div>Teste3 {{ day.name }} </div>
+                {% endif %}				
                 <div class="tab-content aos-init aos-animate" data-aos="fade-up">
                     <div class="{{ classes }}" id="{{ id }}" role="tabpanel" aria-labelledby="{{ id }}-tab">
                         {% assign categories = site.data.program.legend.categories %}								
