@@ -78,3 +78,77 @@ days:
               suffix:
               url: "https://www.cienciavitae.pt/"           
         category: actividade
+        
+  - name: "Terça - 16"
+    events:
+      - time: "10:00 to 10:30"
+        title: "Eye-Tracking"
+        speaker: 
+            - name: "João Castelhano"
+              suffix:
+              url: "https://www.cienciavitae.pt/"        
+        category: palestra
+
+      - time: "10:30 to 11:00"
+        title: "Avaliação Neuropsicológica"
+        speaker: 
+            - name: "Susana Mouga"
+              suffix:
+              url: "https://www.cienciavitae.pt/"        
+        category: palestra
+        
+      - time: "11:00 to 11:30"
+        title: "Pausa"        
+
+      - time: "11:30 to 12:00"
+        title: "Imagem Molecular: da Imagem à Clínica"
+        speaker:
+            - name: "Antero Abrunhosa"
+              suffix:
+              url: "https://www.cienciavitae.pt/"        
+        category: palestra
+
+      - time: "11:00 to 11:30"
+        title: "Pausa"
+
+      - time: "11:30 to 12:00"
+        title: "Imagem Molecular: da Química à Clínica"
+        speaker:
+            - name: "Antero Abrunhosa"
+              suffix:
+              url: "https://www.cienciavitae.pt/"        
+        category: palestra
+
+      - time: "12:00 to 12:30"
+        title: "Experimentação Animal"
+        speaker: 
+            - name: "Joana Gonçalves"
+              suffix:
+              url: "https://www.cienciavitae.pt/"            
+        category: palestra
+
+      - time: "12:30 to 14:00"
+        title: "Almoço"
+
+      - time: "14:00 to 16:30"
+        title: "Oficinas de Demonstração"
+        speaker: 
+            - name: "Joana Gonçalves"
+              suffix: "(experimentação animal: biotério, ICNAS)"
+              url: "https://www.cienciavitae.pt/" 
+            - name: "João Martins"
+              suffix: "(experimentação animal: biotério, ICNAS)"
+              url: "https://www.cienciavitae.pt/" 
+            - name: "Hugo Quental"
+              suffix: "(exames psicofísios: lab., iCBR)"
+              url: "https://www.cienciavitae.pt/" 
+            - name: "João Castelhano"
+              suffix: "(eye-tracking: lab. 94, iCBR)"
+              url: "https://www.cienciavitae.pt/" 
+            - name: "Rita Correia"
+              suffix: "(realidade virtual: lab. 55, iCBR)"
+              url: "https://www.cienciavitae.pt/" 
+            - name: "Daniel Agostinho"
+              suffix: "(realidade virtual: lab. 55, iCBR)"
+              url: "https://www.cienciavitae.pt/"               
+        category: visita        
