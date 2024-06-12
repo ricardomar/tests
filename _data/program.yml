@@ -382,3 +382,65 @@ days:
               url: "https://www.cienciavitae.pt/"           
         category: actividade
                 
+  - name: "Sexta - 19"
+    events:
+      - time: "09:30 to 12:30"
+        title: "Concurso de ideias de projetos de investigação: grupos de trabalho, objectivos, plano de trabalhos"
+        speaker:
+            - name: "João Martins"
+              suffix: (tutor)
+              url: "https://www.cienciavitae.pt/"   
+            - name: "Otília d'Almeida"
+              suffix: (tutor)
+              url: "https://www.cienciavitae.pt/" 
+            - name: "Catarina Duarte"
+              suffix: (tutor)
+              url: "https://www.cienciavitae.pt/" 
+            - name: "Susana Mouga"
+              suffix: (tutor)
+              url: "https://www.cienciavitae.pt/"             
+        category: palestra
+        
+      - time: "12:30 to 14:00"
+        title: "Almoço"    
+
+        
+      - time: "14:00 to 15:00"
+        title: "Concurso de ideias de projetos de investigação: finalização da apresentação/pitch"
+        speaker:
+            - name: "João Martins"
+              suffix: (tutor)
+              url: "https://www.cienciavitae.pt/"   
+            - name: "Otília d'Almeida"
+              suffix: (tutor)
+              url: "https://www.cienciavitae.pt/" 
+            - name: "Catarina Duarte"
+              suffix: (tutor)
+              url: "https://www.cienciavitae.pt/" 
+            - name: "Susana Mouga"
+              suffix: (tutor)
+              url: "https://www.cienciavitae.pt/"             
+        category: palestra        
+        
+    
+
+      - time: "14:00 to 15:00"
+        title: "Concurso de ideias de projetos de investigação: apresentação, feedback, prémios"
+        speaker:
+            - name: "Miguel Castelo-Branco"
+              suffix: (júri)
+              url: "https://www.cienciavitae.pt/"   
+            - name: "Catarina Gomes"
+              suffix: (júri)
+              url: "https://www.cienciavitae.pt/" 
+            - name: "Teresa Sousa"
+              suffix: (júri)
+              url: "https://www.cienciavitae.pt/" 
+            - name: "Vanessa Coelho-Santos"
+              suffix: (júri)
+              url: "https://www.cienciavitae.pt/"
+            - name: "Inês Bernardino"
+              suffix: (júri)
+              url: "https://www.cienciavitae.pt/"                
+        category: palestra  
+                        
