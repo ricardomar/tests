@@ -234,7 +234,7 @@ days:
         category: palestra
 
       - time: "09:45 to 10:00"
-        title: "Os guardiões do Cérebro: A Importância dos Vasos"
+        title: "Os guardiões do cérebro: a importância dos vasos"
         speaker: 
             - name: "Vanessa Coelho-Santos"
               suffix:
@@ -350,29 +350,3 @@ days:
               suffix:
               url: "https://www.cienciavitae.pt/"        
         category: palestra
-
-      - time: "15:15 to 15:30"
-        title: "Neuroimagem multimodal no Primeiro Episódio Psicótico: biomarcadores de resposta ao tratamento"
-        speaker:
-            - name: "Miguel Bajouco"
-              suffix:
-              url: "https://www.cienciavitae.pt/"        
-        category: palestra
-
-      - time: "15:30 to 16:00"
-        title: "Pausa"
-
-      - time: "16:00 to 16:45"
-        title: "Mesa Redonda: À conversa com investigadores - percursos e experiências"
-        speaker:
-            - name: "Maria Coelho"
-              suffix:
-              url: "https://www.cienciavitae.pt/"
-            - name: "Joana Gonçalves"
-              suffix:
-              url: "https://www.cienciavitae.pt/"
-            - name: "Nuno Madeira"
-              suffix:
-              url: "https://www.cienciavitae.pt/"           
-        category: actividade
-                
