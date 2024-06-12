@@ -10,7 +10,7 @@ legend:
       
 days:
   - name: "Segunda (15)"
-    topic: " topico A:"
+    topic: "Investigação em Neurociências: conceitos e contextos"
     events:        
       - time: "10:00 to 10:30"
         title: "Receção – Confirmação do Registo"
@@ -86,7 +86,7 @@ days:
         category: actividade
         
   - name: "Terça (16)"
-    topic: " topico B:"  
+    topic: "Investigação em Neurociências: Como?"  
     events:
       - time: "10:00 to 10:30"
         title: "Eye-Tracking"
@@ -161,7 +161,7 @@ days:
         category: visita        
 
   - name: "Quarta (17)"
-    topic: " topico C:"  
+    topic: "Investigação em Neurociências: Como?"  
     events:
       - time: "09:30 to 10:00"
         title: "Ressonância Magnética: Estrutural e Funcional; Neurofeedback"
@@ -230,7 +230,7 @@ days:
         category: visita
 
   - name: "Quinta (18)"
-    topic: " topico D:"  
+    topic: "Investigação em Neurociências: Para quê?"  
     events:
       - time: "09:30 to 09:45"
         title: "Reaprendizagem social em psiquiatria: potencial terapêutico de substâncias psicadélicas"
@@ -392,7 +392,7 @@ days:
         category: actividade
                 
   - name: "Sexta (19)"
-    topic: " topico E:"  
+    topic: "Investigação em Neurociências na Prática"  
     events:
       - time: "09:30 to 12:30"
         title: "Concurso de ideias de projetos de investigação: grupos de trabalho, objectivos, plano de trabalhos"
