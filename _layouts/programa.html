@@ -54,6 +54,14 @@ layout: default
                 <div class="tab-content aos-init aos-animate" data-aos="fade-up">
                     <div class="{{ classes }}" id="{{ id }}" role="tabpanel" aria-labelledby="{{ id }}-tab">
                         {% assign categories = site.data.program.legend.categories %}
+                            <li class="d-flex flex-column flex-lg-row ms-2">
+                                <div class="row col-lg-2 me-lg-4 text-lg-end mb-2">
+                                    <small class="fw-light text-muted"></small>
+                                </div>
+                                <div class="row col-lg-10 border-start border-3 border-{{ classes }}">
+								Teste
+                                </div>
+                            </li>								
                         <ul class="list-unstyled lh-sm">
                             {% for event in day.events %}
                             {% if event.category %}
@@ -70,7 +78,6 @@ layout: default
                             {% assign classes = color | append: ' mb-4' %}
                             {% endif %}
                             <li class="d-flex flex-column flex-lg-row ms-2">
-								<div>Teste</div>
                                 <div class="row col-lg-2 me-lg-4 text-lg-end mb-2">
                                     <small class="fw-light text-muted">{{ start }}–{{ end }}</small>
                                 </div>
