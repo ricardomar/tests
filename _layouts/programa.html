@@ -49,12 +49,12 @@ layout: default
                 {% assign id = forloop.index | prepend: 'day-' %}
                 {% assign classes = 'tab-pane fade' %}
                 {% if forloop.first %}
-                {% assign classes = classes | append: ' active show' %}
-				<div>Teste3 {{ day.name }} </div>
+                {% assign classes = classes | append: ' active show' %}				
                 {% endif %}				
                 <div class="tab-content aos-init aos-animate" data-aos="fade-up">
                     <div class="{{ classes }}" id="{{ id }}" role="tabpanel" aria-labelledby="{{ id }}-tab">
-                        {% assign categories = site.data.program.legend.categories %}								
+                        {% assign categories = site.data.program.legend.categories %}
+						<div>Teste4 {{ day.name }} </div>
                         <ul class="list-unstyled lh-sm">
                             {% for event in day.events %}
                             {% if event.category %}
