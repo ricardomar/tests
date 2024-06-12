@@ -152,3 +152,73 @@ days:
               suffix: "(realidade virtual: lab. 55, iCBR)"
               url: "https://www.cienciavitae.pt/"               
         category: visita        
+
+  - name: "Quarta - 17"
+    events:
+      - time: "09:30 to 10:00"
+        title: "Ressonância Magnética: Estrutural e Funcional; Neurofeedback"
+        speaker:
+            - name: "Alexandre Sayal"
+              suffix:
+              url: "https://www.cienciavitae.pt/"        
+        category: palestra
+
+      - time: "10:00 to 10:30"
+        title: "Ressonância Magnética: Espectroscopia"
+        speaker: 
+            - name: "Otília d’Almeida"
+              suffix:
+              url: "https://www.cienciavitae.pt/"        
+        category: palestra
+
+      - time: "10:30 to 11:00"
+        title: "Espectrografia Funcional de Infravermelho Próximo (fNIRS)"
+        speaker:
+            - name: "João Pereira"
+              suffix:
+              url: "https://www.cienciavitae.pt/"        
+        category: palestra
+
+      - time: "11:00 to 11:30"
+        title: "Pausa"
+
+      - time: "11:30 to 12:00"
+        title: "Eletroencefalografia (EEG)"
+        speaker:
+            - name: "Marta Teixeira"
+              suffix:
+              url: "https://www.cienciavitae.pt/"        
+        category: palestra
+
+      - time: "12:00 to 12:30"
+        title: "Estimulação Cerebral"
+        speaker:
+            - name: "Catarina Duarte"
+              suffix:
+              url: "https://www.cienciavitae.pt/"        
+        category: palestra
+
+      - time: "12:30 to 14:00"
+        title: "Almoço"
+
+      - time: "14:00 to 16:30"
+        title: "Oficinas de Demonstração"
+        speaker: 
+            - name: "Catarina Duarte"
+              suffix: "(estimulação cerebral: sala TMS, ICNAS)"
+              url: "https://www.cienciavitae.pt/"
+            - name: "Maria Coelho"
+              suffix: "(EEG: lab.58, iCBR)"
+              url: "https://www.cienciavitae.pt/"
+            - name: "Ricardo Martins"
+              suffix: "(ressonância magnética: unidade MRI, ICNAS)"
+              url: "https://www.cienciavitae.pt/"
+            - name: "Alexandre Sayal"
+              suffix: "(ressonância magnética: unidade MRI, ICNAS)"
+              url: "https://www.cienciavitae.pt/"
+            - name: "João Pereira"
+              suffix: "(fNIRS: sala fNIRS, ICNAS)"
+              url: "https://www.cienciavitae.pt/"              
+        category: visita
+
+        
