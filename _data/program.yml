@@ -250,7 +250,7 @@ days:
         category: palestra
 
       - time: "10:15 to 10:30"
-        title: "lterações sensoriais em autismo: investigando circuitos neuronais em murganhos"
+        title: "Alterações sensoriais em autismo: investigando circuitos neuronais em murganhos"
         speaker:
             - name: "Helena Ferreira"
               suffix:
@@ -301,7 +301,7 @@ days:
         category: palestra
         
       - time: "12:00 to 12:15"
-        title: "À descoberta da ligação neurovascular interocular."
+        title: "À descoberta da ligação neurovascular interocular"
         speaker:
             - name: "João Jordão"
               suffix:
@@ -309,7 +309,7 @@ days:
         category: palestra    
         
       - time: "12:15 to 12:30"
-        title: "Language as an important factor changing decisions."
+        title: "Language as an important factor changing decisions"
         speaker:
             - name: "Leona Polyanskaya"
               suffix:
@@ -344,7 +344,7 @@ days:
         category: palestra
 
       - time: "15:00 to 15:15"
-        title: tbc
+        title: "tbc"
         speaker:
             - name: "Pedro Guimarães"
               suffix:
