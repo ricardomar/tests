@@ -304,40 +304,5 @@ days:
             - name: "João Jordão"
               suffix:
               url: "https://www.cienciavitae.pt/"        
-        category: palestra    
+        category: palestra
         
-      - time: "12:15 to 12:30"
-        title: "Language as an important factor changing decisions."
-        speaker:
-            - name: "Leona Polyanskaya"
-              suffix:
-              url: "https://www.cienciavitae.pt/"        
-        category: palestra            
-
-      - time: "12:30 to 14:00"
-        title: "Almoço"
-
-      - time: "14:00 to 14:15"
-        title: "Investigação em Psicadélicos"
-        speaker:
-            - name: "Carla Soares"
-              suffix:
-              url: "https://www.cienciavitae.pt/"        
-        category: palestra
-
-      - time: "14:15 to 14:30"
-        title: "Como é que adultos com autismo aprendem com os erros?"
-        speaker: 
-            - name: "Camila Dias"
-              suffix:
-              url: "https://www.cienciavitae.pt/"        
-        category: palestra
-
-      - time: "14:30 to 14:45"
-        title: "Neuromodulação na POC: Abordagens não-invasivas e não-farmacológicas?"
-        speaker:
-            - name: "Teresa Sousa"
-              suffix:
-              url: "https://www.cienciavitae.pt/"        
-        category: palestra
-
