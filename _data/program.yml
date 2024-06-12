@@ -13,11 +13,7 @@ days:
     topic: "Investigação em Neurociências: conceitos e contextos"
     events:        
       - time: "10:00 to 10:30"
-        title: "Receção – Confirmação do Registo"
-        speaker: 
-            - name: "Investigação em Neurociências: conceitos e contextos"
-              suffix:
-              url: "#"        
+        title: "Receção – Confirmação do Registo"      
 
       - time: "10:30 to 10:45"
         title: "CIBIT – Desafios da Investigação Translacional"
