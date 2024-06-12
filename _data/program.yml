@@ -263,7 +263,7 @@ days:
             - name: "Maria Coelho"
               suffix:
               url: "https://www.cienciavitae.pt/"        
-        category: palestra
+        category: palestra  
         
       - time: "10:45 to 11:00"
         title: "Pausa"
@@ -284,18 +284,3 @@ days:
               url: "https://www.cienciavitae.pt/"        
         category: palestra
 
-      - time: "11:30 to 11:45"
-        title: "Estigma associado à doença mental: correlatos e preditores psicossociais e neurais"
-        speaker:
-            - name: "Carolina Cabaços"
-              suffix:
-              url: "https://www.cienciavitae.pt/""              
-        category: palestra
-
-      - time: "11:45 to 12:00"
-        title: "Sincronia cerebral entre irmãos: evidencia baseada em hyperscanning multimodal"
-        speaker:
-            - name: "Diana Costa"
-              suffix:
-              url: "https://www.cienciavitae.pt/"        
-        category: palestra        
