@@ -263,5 +263,39 @@ days:
             - name: "Maria Coelho"
               suffix:
               url: "https://www.cienciavitae.pt/"        
-        category: palestra  
+        category: palestra
         
+      - time: "10:45 to 11:00"
+        title: "Pausa"
+
+      - time: "11:00 to 11:15"
+        title: "Delirium pos-operatório nos idosos: mecanismos neurofisiológicos identificados por RMN"
+        speaker:
+            - name: "Ana Bernardino"
+              suffix:
+              url: "https://www.cienciavitae.pt/"             
+        category: palestra
+
+      - time: "11:15 to 11:30"
+        title: "O papel da depressão e ansiedade perinatal na vinculação mãe-bébé: correlatos neurobiológicos e comportamentais"
+        speaker:
+            - name: "Vera Martins"
+              suffix:
+              url: "https://www.cienciavitae.pt/"        
+        category: palestra
+
+      - time: "11:30 to 11:45"
+        title: "Estigma associado à doença mental: correlatos e preditores psicossociais e neurais"
+        speaker:
+            - name: "Carolina Cabaços"
+              suffix:
+              url: "https://www.cienciavitae.pt/""              
+        category: palestra
+
+      - time: "11:45 to 12:00"
+        title: "Sincronia cerebral entre irmãos: evidencia baseada em hyperscanning multimodal"
+        speaker:
+            - name: "Diana Costa"
+              suffix:
+              url: "https://www.cienciavitae.pt/"        
+        category: palestra        
