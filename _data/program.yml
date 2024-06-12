@@ -299,7 +299,7 @@ days:
         category: palestra 
 
       - time: "12:00 to 12:15"
-        title: "Sincronia cerebral entre irmãos: evidencia baseada em hyperscanning multimodal"
+        title: "À descoberta da ligação neurovascular interocular"
         speaker:
             - name: "João Jordão"
               suffix:
@@ -307,7 +307,7 @@ days:
         category: palestra         
 
       - time: "12:15 to 12:30"
-        title: "Language as an important factor changing decisions."
+        title: "Language as an important factor changing decisions"
         speaker:
             - name: "Leona Polyanskaya"
               suffix:
