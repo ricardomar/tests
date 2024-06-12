@@ -10,6 +10,7 @@ legend:
       
 days:
   - name: "Segunda (15)"
+    topic: " topico A:"
     events:        
       - time: "10:00 to 10:30"
         title: "Receção – Confirmação do Registo"
@@ -85,6 +86,7 @@ days:
         category: actividade
         
   - name: "Terça (16)"
+    topic: " topico B:"  
     events:
       - time: "10:00 to 10:30"
         title: "Eye-Tracking"
@@ -159,6 +161,7 @@ days:
         category: visita        
 
   - name: "Quarta (17)"
+    topic: " topico C:"  
     events:
       - time: "09:30 to 10:00"
         title: "Ressonância Magnética: Estrutural e Funcional; Neurofeedback"
@@ -227,6 +230,7 @@ days:
         category: visita
 
   - name: "Quinta (18)"
+    topic: " topico D:"  
     events:
       - time: "09:30 to 09:45"
         title: "Reaprendizagem social em psiquiatria: potencial terapêutico de substâncias psicadélicas"
@@ -388,6 +392,7 @@ days:
         category: actividade
                 
   - name: "Sexta (19)"
+    topic: " topico E:"  
     events:
       - time: "09:30 to 12:30"
         title: "Concurso de ideias de projetos de investigação: grupos de trabalho, objectivos, plano de trabalhos"
