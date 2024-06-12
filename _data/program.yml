@@ -221,8 +221,6 @@ days:
               url: "https://www.cienciavitae.pt/"              
         category: visita
 
-
-
   - name: "Quinta - 18"
     events:
       - time: "09:30 to 09:45"
