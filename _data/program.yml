@@ -10,8 +10,7 @@ legend:
       
 days:
   - name: "Segunda (15)"
-    events:
-        
+    events:        
       - time: "10:00 to 10:30"
         title: "Receção – Confirmação do Registo"
         speaker: 
