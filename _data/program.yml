@@ -232,4 +232,36 @@ days:
               suffix:
               url: "https://www.cienciavitae.pt/"        
         category: palestra
+
+      - time: "09:45 to 10:00"
+        title: "Os guardiões do Cérebro: A Importância dos Vasos"
+        speaker: 
+            - name: "Vanessa Coelho-Santos"
+              suffix:
+              url: "https://www.cienciavitae.pt/"              
+        category: palestra
+
+      - time: "10:00 to 10:15"
+        title: "Redes plásticas em autismo"
+        speaker:
+            - name: "Francisco Ribeiro"
+              suffix:
+              url: "https://www.cienciavitae.pt/"        
+        category: palestra
+
+      - time: "10:15 to 10:30"
+        title: "lterações sensoriais em autismo: investigando circuitos neuronais em murganhos"
+        speaker:
+            - name: "Helena Ferreira"
+              suffix:
+              url: "https://www.cienciavitae.pt/"        
+        category: palestra
+        
+      - time: "10:30 to 10:45"
+        title: "O processamento do conflito em contexto socioemocional no autismo"
+        speaker:
+            - name: "Maria Coelho"
+              suffix:
+              url: "https://www.cienciavitae.pt/"        
+        category: palestra  
         
