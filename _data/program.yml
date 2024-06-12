@@ -305,4 +305,12 @@ days:
               suffix:
               url: "https://www.cienciavitae.pt/"        
         category: palestra         
-                
+
+      - time: "12:15 to 12:30"
+        title: "Language as an important factor changing decisions."
+        speaker:
+            - name: "Leona Polyanskaya"
+              suffix:
+              url: "https://www.cienciavitae.pt/"        
+        category: palestra 
+        
