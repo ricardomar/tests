@@ -84,6 +84,9 @@ days:
   - name: "Terça (16)"
     topic: "Investigação em Neurociências: Como?"  
     events:
+      - time: "10:00 to 10:00"
+        title: "Receção"     
+    
       - time: "10:00 to 10:30"
         title: "Eye-Tracking"
         speaker: 
@@ -159,6 +162,9 @@ days:
   - name: "Quarta (17)"
     topic: "Investigação em Neurociências: Como?"  
     events:
+      - time: "09:30 to 09:30"
+        title: "Receção" 
+        
       - time: "09:30 to 10:00"
         title: "Ressonância Magnética: Estrutural e Funcional; Neurofeedback"
         speaker:
@@ -228,6 +234,9 @@ days:
   - name: "Quinta (18)"
     topic: "Investigação em Neurociências: Para quê?"  
     events:
+      - time: "09:30 to 09:30"
+        title: "Receção" 
+        
       - time: "09:30 to 09:45"
         title: "Reaprendizagem social em psiquiatria: potencial terapêutico de substâncias psicadélicas"
         speaker:
@@ -390,6 +399,9 @@ days:
   - name: "Sexta (19)"
     topic: "Investigação em Neurociências na Prática"  
     events:
+      - time: "09:30 to 09:30"
+        title: "Receção" 
+        
       - time: "09:30 to 12:30"
         title: "Concurso de ideias de projetos de investigação: grupos de trabalho, objectivos, plano de trabalhos"
         speaker:
