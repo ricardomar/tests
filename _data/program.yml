@@ -207,7 +207,7 @@ days:
               suffix: "(estimulação cerebral: sala TMS @ICNAS)"
               url: "https://www.cienciavitae.pt/portal/A311-7568-C572"
             - name: "Maria Coelho"
-              suffix: "(EEG: lab.58, iCBR)"
+              suffix: "(EEG: lab.58 @iCBR)"
               url: "https://www.cienciavitae.pt/"
             - name: "Sónia Afonso"
               suffix: "(ressonância magnética: unidade MRI @ICNAS)"
