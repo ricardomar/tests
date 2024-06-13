@@ -1,7 +1,7 @@
 ---
 layout: inscricao
 title: Inscrição
-description: 
+description: formulário de inscrição da Escola de Verão CIBIT ICNAS
 navorder: 2
 ---
 Use o formulário abaixo para efectuar a inscrição na Escola de Verão CIBIT-ICNAS 2024.
