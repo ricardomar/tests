@@ -5,7 +5,7 @@ url: https://ricardomar.github.io/tests
 
 theme: jekyll-nagymaros
 
-indexing: false
+indexing: true
 
 permalink: pretty
 
