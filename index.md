@@ -1,5 +1,6 @@
 ---
 layout: index
+description: "Escola de Verão CIBIT ICNAS, Universidade de Coimbra, neurociência, psicologia, engenharia biomédica"
 description01: "Uma viagem ao cérebro em 5 dias!"
 description02: "Universidade de Coimbra. 15 a 19 de Julho de 2024"
 ---

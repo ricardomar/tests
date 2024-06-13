@@ -1,6 +1,6 @@
 ---
 layout: programa
 title: Programa
-description: Schedule of talks and activities
+description: Programa das palestras e actividades científicas
 navorder: 1
 ---

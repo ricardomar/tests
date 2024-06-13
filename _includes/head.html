@@ -4,7 +4,7 @@
     {% if site.indexing and page.layout != 404 %}
 	<meta name="robots" content="follow, index" />
 	<meta name="author" content="CIBIT-ICNAS">
-	<meta name="description" content="{{ description }}">
+	<meta name="description" content="{{ page.description }}">
     {% else %}
     <meta name="robots" content="none">
 	{% endif %}
