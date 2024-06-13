@@ -2,7 +2,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     {% if site.indexing and page.layout != 404 %}
-    {% seo %}
+	<meta name="robots" content="follow, index" />
+	<meta name="author" content="CIBIT-ICNAS">
+	<meta name="description" content="{{ description }}">
+
     {% else %}
     <meta name="robots" content="none">
     {% if page.title %}
