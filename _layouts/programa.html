@@ -56,7 +56,7 @@ layout: default
                         {% assign categories = site.data.program.legend.categories %}
 						
 						<!-- adicionei esta linha para exibir o topico/titulo do dia que acrescentei na estrutura de dados do programa -->
-						<h4 class="fw-bold d-flex flex-column flex-lg-row mb-4 bi bi-arrow-right-circle-fill">{{ day.topic }}</h4>
+						<h4 class="fw-bold d-flex flex-column flex-lg-row mb-4">{{ day.topic }}</h4>
 						
                         <ul class="list-unstyled lh-sm">
                             {% for event in day.events %}
