@@ -114,17 +114,6 @@ days:
               url: "https://www.cienciavitae.pt/"        
         category: palestra
 
-      - time: "11:00 to 11:30"
-        title: "Pausa"
-
-      - time: "11:30 to 12:00"
-        title: "Imagem Molecular: da Química à Clínica"
-        speaker:
-            - name: "Antero Abrunhosa"
-              suffix:
-              url: "https://www.cienciavitae.pt/"        
-        category: palestra
-
       - time: "12:00 to 12:30"
         title: "Experimentação Animal"
         speaker: 
@@ -140,22 +129,22 @@ days:
         title: "Oficinas de Demonstração"
         speaker: 
             - name: "Joana Gonçalves"
-              suffix: "(experimentação animal: biotério, ICNAS)"
+              suffix: "(experimentação animal: biotério @ICNAS)"
               url: "https://www.cienciavitae.pt/" 
             - name: "João Martins"
-              suffix: "(experimentação animal: biotério, ICNAS)"
+              suffix: "(experimentação animal: biotério @ICNAS)"
               url: "https://www.cienciavitae.pt/" 
             - name: "Hugo Quental"
-              suffix: "(exames psicofísios: lab., iCBR)"
+              suffix: "(exames psicofísios: lab. @iCBR)"
               url: "https://www.cienciavitae.pt/" 
             - name: "João Castelhano"
-              suffix: "(eye-tracking: lab. 94, iCBR)"
+              suffix: "(eye-tracking: lab. 94 @iCBR)"
               url: "https://www.cienciavitae.pt/" 
             - name: "Rita Correia"
-              suffix: "(realidade virtual: lab. 55, iCBR)"
+              suffix: "(realidade virtual: lab. 55 @iCBR)"
               url: "https://www.cienciavitae.pt/" 
             - name: "Daniel Agostinho"
-              suffix: "(realidade virtual: lab. 55, iCBR)"
+              suffix: "(realidade virtual: lab. 55 @iCBR)"
               url: "https://www.cienciavitae.pt/"               
         category: visita        
 
@@ -215,19 +204,22 @@ days:
         title: "Oficinas de Demonstração"
         speaker: 
             - name: "Catarina Duarte"
-              suffix: "(estimulação cerebral: sala TMS, ICNAS)"
+              suffix: "(estimulação cerebral: sala TMS @ICNAS)"
               url: "https://www.cienciavitae.pt/"
             - name: "Maria Coelho"
               suffix: "(EEG: lab.58, iCBR)"
               url: "https://www.cienciavitae.pt/"
+            - name: "Sónia Afonso"
+              suffix: "(ressonância magnética: unidade MRI @ICNAS)"
+              url: "https://www.cienciavitae.pt/"               
             - name: "Ricardo Martins"
-              suffix: "(ressonância magnética: unidade MRI, ICNAS)"
+              suffix: "(ressonância magnética: unidade MRI @ICNAS)"
               url: "https://www.cienciavitae.pt/"
             - name: "Alexandre Sayal"
-              suffix: "(ressonância magnética: unidade MRI, ICNAS)"
-              url: "https://www.cienciavitae.pt/"
+              suffix: "(ressonância magnética: unidade MRI @ICNAS)"
+              url: "https://www.cienciavitae.pt/"             
             - name: "João Pereira"
-              suffix: "(fNIRS: sala fNIRS, ICNAS)"
+              suffix: "(fNIRS: sala fNIRS @ICNAS)"
               url: "https://www.cienciavitae.pt/"              
         category: visita
 
@@ -281,7 +273,7 @@ days:
         title: "Pausa"
 
       - time: "11:00 to 11:15"
-        title: "Delirium pos-operatório nos idosos: mecanismos neurofisiológicos identificados por RMN"
+        title: "Delirium pós-operatório nos idosos: mecanismos neurofisiológicos identificados por RMN"
         speaker:
             - name: "Ana Bernardino"
               suffix:
@@ -305,7 +297,7 @@ days:
         category: palestra
         
       - time: "11:45 to 12:00"
-        title: "Sincronia cerebral entre irmãos: evidencia baseada em hyperscanning multimodal"
+        title: "Sincronia cerebral entre irmãos: evidência baseada em hyperscanning multimodal"
         speaker:
             - name: "Diana Costa"
               suffix:
@@ -354,17 +346,17 @@ days:
               suffix:
               url: "https://www.cienciavitae.pt/"        
         category: palestra
-        
-      - time: "14:44 to 15:00"
-        title: "tbc"
+
+      - time: "15:45 to 15:00"
+        title: "Neuroimagem multimodal no Primeiro Episódio Psicótico: biomarcadores de resposta ao tratamento"
         speaker:
-            - name: "tbc"
+            - name: "Miguel Bajouco"
               suffix:
               url: "https://www.cienciavitae.pt/"        
-        category: palestra        
+        category: palestra      
 
       - time: "15:00 to 15:15"
-        title: "tbc"
+        title: "-"
         speaker:
             - name: "Pedro Guimarães"
               suffix:
@@ -372,12 +364,12 @@ days:
         category: palestra
 
       - time: "15:15 to 15:30"
-        title: "Neuroimagem multimodal no Primeiro Episódio Psicótico: biomarcadores de resposta ao tratamento"
+        title: "BRAINPART - uma perspetiva neuropsicobiológica da Violência por Parceiro Íntimo"
         speaker:
-            - name: "Miguel Bajouco"
+            - name: Joana Oliveira"
               suffix:
               url: "https://www.cienciavitae.pt/"        
-        category: palestra
+        category: palestra  
 
       - time: "15:30 to 16:00"
         title: "Pausa"
