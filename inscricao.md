@@ -5,6 +5,7 @@ description:
 navorder: 2
 ---
 Use o formulário abaixo para efectuar a inscrição na Escola de Verão CIBIT-ICNAS 2024.
+
 Caso encontre alguma dificuldade em efectuar o registo, pode usar este link alternativo ou contactar a organização!
 
 
