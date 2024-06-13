@@ -55,7 +55,7 @@ layout: default
                     <div class="{{ classes }}" id="{{ id }}" role="tabpanel" aria-labelledby="{{ id }}-tab">
                         {% assign categories = site.data.program.legend.categories %}
 						
-						<h4 class="d-flex flex-column flex-lg-row mb-4 bi-alarm">Ola {{ day.topic }}</h4>
+						<h4 class="d-flex flex-column flex-lg-row mb-4 bi-alarm">Ola <i class="bi bi-arrow-right-circle-fill"></i> {{ day.topic }}</h4>
 						
                         <ul class="list-unstyled lh-sm">
                             {% for event in day.events %}
