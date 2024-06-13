@@ -366,7 +366,7 @@ days:
       - time: "15:15 to 15:30"
         title: "BRAINPART - uma perspetiva neuropsicobiológica da Violência por Parceiro Íntimo"
         speaker:
-            - name: Joana Oliveira"
+            - name: "Joana Oliveira"
               suffix:
               url: "https://www.cienciavitae.pt/"        
         category: palestra  
