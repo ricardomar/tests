@@ -8,10 +8,10 @@ Se tens interesse em Neurociências e gostavas de saber mais sobre o funcionamen
 
 Nesta [viagem ao cérebro em 5 dias](programa), organizada pelos [investigadores do CIBIT-ICNAS](organizacao), vais:
 
-* Dia #1: como se faz investigação na área das Neurociências;
-* Dia #2 e Dia #3: conhecer as diferentes técnicas usadas para estudar o funcionamento do cérebro e visitar os laboratórios do CIBIT-ICNAS;
-* Dia #4: descobrir as aplicações práticas dos estudos que fazemos no CIBIT-ICNAS;
-* Dia #5: participar numa competição informal de ideias de projecto de investigação, receber formação e tutoria dos investigadores do CIBIT, ainda ganhar alguns prémios!
+* **Dia #1:** como se faz investigação na área das neurociências;
+* **Dia #2 e Dia #3:** conhecer as diferentes técnicas usadas para estudar o funcionamento do cérebro e visitar os laboratórios do CIBIT-ICNAS;
+* **Dia #4:** descobrir as aplicações práticas dos estudos que fazemos no CIBIT-ICNAS;
+* **Dia #5:** participar numa competição informal de ideias de projecto de investigação, receber formação e tutoria dos investigadores do CIBIT, ainda ganhar alguns prémios!
 
 A Escola de Verão vai decorrer de 15 a 19 de Julho, [no Polo III - Ciências da Saúde da Universidade de Coimbra](local), apenas em regime presencial.
  
