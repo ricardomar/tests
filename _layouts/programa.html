@@ -25,7 +25,7 @@ layout: default
                 {% assign control = 'btn-group-vertical' %}
                 {% endif %}
                 <div class="{{ classes }}">
-                    <div class="btn {{ control }} p-0 aos-init aos-animate" role="tablist" data-aos="fade-up">
+                    <div class="btn {{ control }} p-0 flex-wrap aos-init aos-animate" role="tablist" data-aos="fade-up">
                         {% for day in site.data.program.days %}
                         {% assign id = forloop.index | prepend: 'day-' %}
                         {% assign classes = 'btn btn-secondary' %}
