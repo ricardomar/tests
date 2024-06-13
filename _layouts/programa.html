@@ -28,7 +28,7 @@ layout: default
                     <div class="btn {{ control }} p-0 flex-wrap aos-init aos-animate" role="tablist" data-aos="fade-up"> <!-- adicionei flex-wrap para os botões colapsarem em ecrãs pequenos -->
                         {% for day in site.data.program.days %}
                         {% assign id = forloop.index | prepend: 'day-' %}
-                        {% assign classes = 'btn btn-secondary rounded-3 border body-bg' %}
+                        {% assign classes = 'btn btn-secondary rounded-3 mb-4' %}
                         {% if forloop.first %}
                         {% assign classes = classes | append: ' active' %}
                         {% endif %}
