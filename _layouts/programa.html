@@ -25,14 +25,14 @@ layout: default
                 {% assign control = 'btn-group-vertical' %}
                 {% endif %}
                 <div class="{{ classes }}">
-                    <div class="btn {{ control }} p-0 flex-wrap aos-init aos-animate" role="tablist" data-aos="fade-up"> <!-- adicionei flex-wrap para os botões colapsarem em ecrãs pequenos -->
+                    <div class="btn {{ control }} p-0 flex-wrap aos-init aos-animate" role="group" data-aos="fade-up"> <!-- adicionei flex-wrap para os botões colapsarem em ecrãs pequenos -->
                         {% for day in site.data.program.days %}
                         {% assign id = forloop.index | prepend: 'day-' %}
                         {% assign classes = 'btn btn-secondary' %}
                         {% if forloop.first %}
                         {% assign classes = classes | append: ' active' %}
                         {% endif %}
-                        <button type="button" class="{{ classes }}" data-bs-toggle="tab" data-bs-target="#{{ id }}" role="tab" aria-controls="{{ id }}" aria-selected="true">
+                        <button type="button" class="{{ classes }}" data-bs-toggle="tab" data-bs-target="#{{ id }}" role="button" aria-controls="{{ id }}" aria-selected="true">
                             <span class="fs-6">{{ day.name }}</span> <!-- mudei fs-5 por fs-6 para o tamanho de texto ficar mais pequeno -->
                         </button>
                         {% endfor %}
