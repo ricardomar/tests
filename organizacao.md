@@ -1,7 +1,7 @@
 ---
 layout: organizacao
 title: Organização
-description: 
+description: lista de entidades organizadoras da Escola de Verão CIBIT ICNAS
 navorder: 4
 organizer00_contact: "Email: escolaveraocibit@gmail.com</br>Twitter: @CIBIT_UC</br></br>"
 organizer01_name: "CIBIT - Centro de Imagem Biomédica e Investigação Translacional"
