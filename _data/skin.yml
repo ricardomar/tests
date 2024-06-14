@@ -13,9 +13,9 @@ btn-primary:
   hover: blue-7         # primary button when hovering
   disabled: blue-3      # disabled primary button
 btn-secondary:
-  bg: blue-5            # secondary button
-  color: blue-0         # secondary button text
-  hover: blue-6         # secondary button when hovering
+  bg: yellow-5            # secondary button
+  color: yellow-0         # secondary button text
+  hover: yellow-6         # secondary button when hovering
 digit:
   bg: gray-3            # background of digit on 404 page
 header:
