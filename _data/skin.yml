@@ -21,7 +21,7 @@ digit:
 header:
   bg: blue-9            # background of navigation bar
 index:
-  bg: yellow-2            # background of index container
+  bg: yellow-0            # background of index container
 navbar-brand:
   color: yellow-4         # website name in header
   hover: yellow-6         # website name in header when hovering
