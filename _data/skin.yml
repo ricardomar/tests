@@ -29,5 +29,5 @@ nav-link:
   color: yellow-5         # navigation links in header
   hover: yellow-7         # navigation links in header when hovering
 text-muted:
-  color: yellow-5         # light text
-  hover: yellow-7         # light text when hovering (if link)
+  color: blue-6         # light text
+  hover: blue-9         # light text when hovering (if link)
