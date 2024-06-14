@@ -70,7 +70,7 @@ layout: default
                             {% assign bg = border | split: '-' | first | prepend: 'bg-' | append: '-1' %}
                             {% assign classes = border | prepend: ' border-' | prepend: bg %}
                             {% if border %}
-                            <small class="d-block d-lg-inline-block mt-2 me-lg-2 px-3 py-1 border-start border-3 {{ classes }}">{{ item | upcase }}</small>
+                            <small class="d-block d-lg-inline-block mt-2 mb-2 me-lg-2 px-3 py-1 border-start border-3 {{ classes }}">{{ item | upcase }}</small>
                             {% endif %}
                             {% endfor %}
                             {% endif %}
