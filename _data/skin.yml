@@ -2,8 +2,8 @@
 #For convenience, the customization of the theme's color scheme is also possible via YAML: 
 #In this case, create a file called skin.yml in your _data folder and assign new colors from the Open Color library https://yeun.github.io/open-color using the (color)-(number) convention. 
 a:
-  color: cyan-3         # links
-  hover: cyan-4         # links when hovering
+  color: cyan-5         # links
+  hover: cyan-6         # links when hovering
 body:
   bg: yellow-2            # background
   color: blue-9         # body text
@@ -19,7 +19,7 @@ btn-secondary:
 digit:
   bg: gray-3            # background of digit on 404 page
 header:
-  bg: blue-9            # background of navigation bar
+  bg: indigo-9            # background of navigation bar
 index:
   bg: yellow-4            # background of index container
 navbar-brand:
