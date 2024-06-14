@@ -6,7 +6,7 @@ legend:
     - name: visita
       color: cyan-6
     - name: actividade
-      color: grape-6     
+      color: pink-6     
       
 days:
   - name: "Segunda (15)"
