@@ -19,15 +19,15 @@ btn-secondary:
 digit:
   bg: gray-3            # background of digit on 404 page
 header:
-  bg: indigo-9            # background of navigation bar
+  bg: blue-9            # background of navigation bar
 index:
   bg: yellow-4            # background of index container
 navbar-brand:
-  color: gray-8         # website name in header
-  hover: gray-9         # website name in header when hovering
+  color: blue-0         # website name in header
+  hover: blue-1         # website name in header when hovering
 nav-link:
-  color: gray-7         # navigation links in header
-  hover: gray-9         # navigation links in header when hovering
+  color: blue-0         # navigation links in header
+  hover: blue-1         # navigation links in header when hovering
 text-muted:
   color: gray-6         # light text
   hover: gray-9         # light text when hovering (if link)
