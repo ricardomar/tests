@@ -5,7 +5,7 @@ a:
   color: yellow-5         # links
   hover: yellow-7         # links when hovering
 body:
-  bg: blue-0            # background
+  bg: gray-0            # background
   color: blue-8         # body text
 btn-primary:
   bg: blue-5            # primary button
