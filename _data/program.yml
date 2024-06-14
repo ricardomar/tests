@@ -2,11 +2,11 @@ legend:
   title:
   categories:
     - name: palestra
-      color: red-6
+      color: violet-6
     - name: visita
-      color: yellow-6
+      color: cyan-6
     - name: actividade
-      color: teal-6     
+      color: grape-6     
       
 days:
   - name: "Segunda (15)"
