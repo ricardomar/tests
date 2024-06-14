@@ -5,7 +5,7 @@ a:
   color: cyan-5         # links
   hover: cyan-6         # links when hovering
 body:
-  bg: yellow-2            # background
+  bg: yellow-4            # background
   color: blue-9         # body text
 btn-primary:
   bg: blue-5            # primary button
@@ -21,7 +21,7 @@ digit:
 header:
   bg: blue-9            # background of navigation bar
 index:
-  bg: yellow-4            # background of index container
+  bg: yellow-2            # background of index container
 navbar-brand:
   color: blue-0         # website name in header
   hover: blue-1         # website name in header when hovering
