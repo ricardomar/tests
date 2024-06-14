@@ -57,25 +57,7 @@ layout: default
 						
 						<!-- adicionei esta linha para exibir o topico/titulo do dia que acrescentei na estrutura de dados do programa -->
 						<h4 class="fw-bold d-flex flex-column flex-lg-row mb-4">&#8614; {{ day.topic }}</h4>
-						
-						<div class="text-center">
-                            {% assign legend = day.events | map: 'category' | compact | uniq %}
-                            {% assign size = legend | size %}
-                            {% if size > 0 %}
-                            {% if site.data.program.legend.title %}
-                            <h5 class="fw-normal">{{ site.data.program.legend.title }}</h5>
-                            {% endif %}
-                            {% for item in legend %}
-                            {% assign border = categories | where: 'name', item | map: 'color' | first %}
-                            {% assign bg = border | split: '-' | first | prepend: 'bg-' | append: '-1' %}
-                            {% assign classes = border | prepend: ' border-' | prepend: bg %}
-                            {% if border %}
-                            <small class="d-block d-lg-inline-block mt-2 mb-4 me-lg-2 px-3 py-1 border-start border-3 {{ classes }}">{{ item | upcase }}</small>
-                            {% endif %}
-                            {% endfor %}
-                            {% endif %}
-                        </div>
-						
+											
                         <ul class="list-unstyled lh-sm">
                             {% for event in day.events %}
                             {% if event.category %}
