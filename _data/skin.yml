@@ -15,7 +15,7 @@ btn-primary:
 btn-secondary:
   bg: yellow-5            # secondary button
   color: yellow-0         # secondary button text
-  hover: yellow-7         # secondary button when hovering
+  hover: yellow-6         # secondary button when hovering
 digit:
   bg: gray-3            # background of digit on 404 page
 header:
@@ -30,4 +30,4 @@ nav-link:
   hover: yellow-7         # navigation links in header when hovering
 text-muted:
   color: blue-6         # light text
-  hover: yellow-7         # light text when hovering (if link)
+  hover: blue-7         # light text when hovering (if link)
