@@ -33,7 +33,7 @@ layout: default
                         {% assign classes = classes | append: ' active' %}
                         {% endif %}
                         <button type="button" class="{{ classes }}" data-bs-toggle="tab" data-bs-target="#{{ id }}" role="tab" aria-controls="{{ id }}" aria-selected="true">
-                            <span class="fs-6 text-start">{{ day.name }}</span> <!-- mudei fs-5 por fs-6 para o tamanho de texto ficar mais pequeno -->
+                            <span class="fs-6">{{ day.name }}</span> <!-- mudei fs-5 por fs-6 para o tamanho de texto ficar mais pequeno -->
                         </button>
                         {% endfor %}
                     </div>
