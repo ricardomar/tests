@@ -21,19 +21,19 @@ layout: default
                 {% assign classes = 'd-block d-lg-none text-center mb-3' %}
                 {% assign control = 'btn-group' %}
                 {% else %}
-                {% assign classes = 'd-none d-lg-block text-start w-100' %}
+                {% assign classes = 'd-none d-lg-block' %}
                 {% assign control = 'btn-group-vertical' %}
                 {% endif %}
                 <div class="{{ classes }}">
                     <div class="btn {{ control }} p-0 flex-wrap aos-init aos-animate" role="tablist" data-aos="fade-up"> <!-- adicionei flex-wrap para os botões colapsarem em ecrãs pequenos -->
                         {% for day in site.data.program.days %}
                         {% assign id = forloop.index | prepend: 'day-' %}
-                        {% assign classes = 'btn btn-secondary rounded-0' %}
+                        {% assign classes = 'btn btn-secondary rounded-0 text-start' %}
                         {% if forloop.first %}
                         {% assign classes = classes | append: ' active' %}
                         {% endif %}
                         <button type="button" class="{{ classes }}" data-bs-toggle="tab" data-bs-target="#{{ id }}" role="tab" aria-controls="{{ id }}" aria-selected="true">
-                            <span class="fs-6">tt {{ day.name }}</span> <!-- mudei fs-5 por fs-6 para o tamanho de texto ficar mais pequeno -->
+                            <span class="fs-6"> aa{{ day.name }}</span> <!-- mudei fs-5 por fs-6 para o tamanho de texto ficar mais pequeno -->
                         </button>
                         {% endfor %}
                     </div>
