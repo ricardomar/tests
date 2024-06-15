@@ -58,7 +58,7 @@ layout: default
 						<!-- adicionei esta linha para exibir o topico/titulo do dia que acrescentei na estrutura de dados do programa -->
 						<h4 class="fw-bold d-flex flex-column flex-lg-row mb-4">&#8614; {{ day.topic }}</h4>
 						
-						<div class="text-center">
+						<div class="text-start">
                             {% assign legend = day.events | map: 'category' | compact | uniq %}
                             {% assign size = legend | size %}
                             {% if size > 0 %}
