@@ -2,7 +2,7 @@
 #For convenience, the customization of the theme's color scheme is also possible via YAML: 
 #In this case, create a file called skin.yml in your _data folder and assign new colors from the Open Color library https://yeun.github.io/open-color using the (color)-(number) convention. 
 a:
-  color: yellow-5         # links
+  color: yellow-6         # links
   hover: yellow-7         # links when hovering
 body:
   bg: gray-0            # background
