@@ -18,10 +18,10 @@ layout: default
                 {% assign directions = 'horizontal, vertical' | split: ', ' %}
                 {% for direction in directions %}
                 {% if direction == 'horizontal' %}
-                {% assign classes = 'd-block d-lg-none text-start mb-3' %}
+                {% assign classes = 'd-block d-lg-none text-center mb-3' %}
                 {% assign control = 'btn-group' %}
                 {% else %}
-                {% assign classes = 'd-none d-lg-block text-start' %}
+                {% assign classes = 'd-none d-lg-block' %}
                 {% assign control = 'btn-group-vertical' %}
                 {% endif %}
                 <div class="{{ classes }}">
@@ -33,7 +33,7 @@ layout: default
                         {% assign classes = classes | append: ' active' %}
                         {% endif %}
                         <button type="button" class="{{ classes }}" data-bs-toggle="tab" data-bs-target="#{{ id }}" role="tab" aria-controls="{{ id }}" aria-selected="true">
-                            <span class="fs-6">{{ day.name }}</span> <!-- mudei fs-5 por fs-6 para o tamanho de texto ficar mais pequeno -->
+                            <span class="fs-6 text-start">{{ day.name }}</span> <!-- mudei fs-5 por fs-6 para o tamanho de texto ficar mais pequeno -->
                         </button>
                         {% endfor %}
                     </div>
