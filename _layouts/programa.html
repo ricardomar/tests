@@ -102,9 +102,9 @@ layout: default
                                     <p class="fw-normal m-0 mb-2"><a target="_blank" href="{{ speaker.url }}">{{ speaker.name }}</a> {{ speaker.suffix }}</p>
 									{% endfor %}
                                     {% else %}
-                                    <h5 class="fw-normal text-muted m-0 mb-2">{{ event.title }}</h5>
+                                    <h5 class="fw-light text-muted m-0 mb-2">{{ event.title }}</h5>
 									{% for speaker in event.speaker %}
-                                    <p class="fw-normal m-0 mb-2"><a target="_blank" href="{{ speaker.url }}">{{ speaker.name }}</a> {{ speaker.suffix }}</p>
+                                    <p class="fw-light m-0 mb-2"><a target="_blank" href="{{ speaker.url }}">{{ speaker.name }}</a> {{ speaker.suffix }}</p>
 									{% endfor %}
                                     {% endif %}
                                 </div>
