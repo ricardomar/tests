@@ -57,8 +57,8 @@ layout: default
 						
 						<!-- adicionei esta linha para exibir o topico/titulo do dia que acrescentei na estrutura de dados do programa -->
 						<h4 class="fw-bold d-flex flex-column flex-lg-row mb-4">&#8614; {{ day.topic }}</h4>
-						
-						<div class="text-center">
+
+                        <div class="text-center">
                             {% assign legend = day.events | map: 'category' | compact | uniq %}
                             {% assign size = legend | size %}
                             {% if size > 0 %}
@@ -70,7 +70,7 @@ layout: default
                             {% assign bg = border | split: '-' | first | prepend: 'bg-' | append: '-1' %}
                             {% assign classes = border | prepend: ' border-' | prepend: bg %}
                             {% if border %}
-                            <small class="d-block d-lg-inline-block mb-2 mt-2 me-lg-2 px-3 py-1 border-start border-3 {{ classes }}">{{ item | upcase }}</small>
+                            <small class="d-block d-lg-inline-block mt-2 mb-2 me-lg-2 px-3 py-1 border-start border-3 {{ classes }}">{{ item | upcase }}</small>
                             {% endif %}
                             {% endfor %}
                             {% endif %}
@@ -111,6 +111,7 @@ layout: default
                             </li>
                             {% endfor %}
                         </ul>
+
                     </div>
                 </div>
                 {% endfor %}
