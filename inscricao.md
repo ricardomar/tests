@@ -4,9 +4,13 @@ title: Inscrição
 description: formulário de inscrição da Escola de Verão CIBIT ICNAS
 navorder: 2
 ---
-Usa o formulário nesta página para efetuar a inscrição na Escola de Verão CIBIT-ICNAS 2024.
 
-**A inscrição é gratuita mas obrigatória! Inscreve-te até dia 8 de Julho!**
+
+**O limite do número de inscrições na edição de 2024 da Escola de Verão CIBIT ICNAS já foi atingido!**
+
+Usa o formulário nesta página para efetuar a inscrição na **"fila de espera"** da Escola de Verão CIBIT-ICNAS 2024.
+
+As inscrições na "fila de espera" poderão ser confirmadas por email da organização caso haja desistências entre as inscrições já efetuadas ou terão prioridade na inscrição em edições futuras da Escola de Verão CIBIT ICNAS!
 
 A presença nas atividades da Escola de Verão dará direito a **Certificado de Participação**.
 
